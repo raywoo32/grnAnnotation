@@ -1,0 +1,79 @@
+Regulatory network construction in Arabidopsis by using genome-wide gene expression quantitative trait loci
+AT2G30530 geneGene-a BAK1
+
+AT1G15260 geneGene-a CDF3
+
+AT2G26500 geneGene-r GAI
+
+AT2G15810 geneGene-a PHYA
+
+AT5G50730 geneGene-a PGM
+
+AT1G12350 geneGene-a CDF1
+AT1G12350 geneGene-a SPA1
+AT1G12350 geneGene-a VIP5
+AT1G12350 geneGene-a FVE
+AT1G12350 geneGene-r DET2
+
+AT2G17390 geneGene-a FVE
+
+AT2G23590 geneGene-a TOE1
+
+AT5G23460 geneGene-a MAF1
+AT5G23460 geneGene-a MAF5
+AT5G23460 geneGene-a MAF4
+AT5G23460 geneGene-a TOE1
+AT5G23460 geneGene-a FLC
+AT5G23460 geneGene-r CRY2
+AT5G23460 geneGene-r FKF1
+
+GI geneGene-a ELF4
+GI geneGene-a GI
+GI geneGene-a ELF7
+GI geneGene-a COL9
+GI geneGene-a FKF1
+GI geneGene-a TOC1
+GI geneGene-a MBP2
+GI geneGene-a PCL1
+GI geneGene-r COL2
+GI geneGene-r LHY1
+GI geneGene-r APRR9
+GI geneGene-r COL1
+GI geneGene-r CCA1
+
+AT5G55300 geneGene-r PCL1
+
+AT5G52920 geneGene-a GI
+AT5G52920 geneGene-a PDF2
+AT5G52920 geneGene-a SVP
+AT5G52920 geneGene-a COR78
+AT5G52920 geneGene-r COL2
+AT5G52920 geneGene-r CKA2
+
+AT4G16940 geneGene-r PHYE
+AT4G16940 geneGene-r COL9
+AT4G16940 geneGene-r PIE1
+AT4G16940 geneGene-r TOE2
+AT4G16940 geneGene-a ESD4
+AT4G16940 geneGene-a APRR7
+AT4G16940 geneGene-a CAM1
+
+AT2G17250 geneGene-a ARR4
+AT2G17250 geneGene-r COR78
+AT2G17250 geneGene-r COP1
+AT2G17250 geneGene-r RGL1
+AT2G17250 geneGene-r PHOT1
+
+AT5G50000 geneGene-r ARR4
+
+AT1G67990 geneGene-a MYB33
+AT1G67990 geneGene-a TFL1
+AT1G67990 geneGene-r RGL1
+
+AT2G29490 geneGene-a MYB33
+AT2G29490 geneGene-a SHI
+AT2G29490 geneGene-r TEJ
+AT2G29490 geneGene-r ARF8
+AT2G29490 geneGene-r ARF6
+AT2G29490 geneGene-r MSI5
+AT2G29490 geneGene-r RD29B

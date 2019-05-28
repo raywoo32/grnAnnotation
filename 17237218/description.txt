@@ -1,0 +1,9 @@
+Regulatory network construction in Arabidopsis by using genome-wide gene expression quantitative trait loci
+PMID: 17237218
+Keurentjes JJ, Fu J, Terpstra IR, Garcia JM, van den Ackerveken G, Snoek LB, Peeters AJ, Vreugdenhil D, Koornneef M, Jansen RC 
+Proc Natl Acad Sci 
+2007 
+104(5):1708-13
+expression quantitative trait loci (eQTLs), ERECTA marker, 
+flowering time
+isGRN
