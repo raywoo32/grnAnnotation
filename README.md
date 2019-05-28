@@ -3,5 +3,5 @@ GRN annotations. Where each folder is a PMID, "description.txt" contains notes a
 
 ## TODO:
 1. get method standard symbol
-2. get interaction type (for sif file)
+2. get interaction type (for sif file), for example just written as tfPromoter at present 
 3. finalize description.txt format for reading (very informal now) 
