@@ -1,7 +1,16 @@
 # grnAnnotation
-GRN annotations. Where each folder is a PMID, "description.txt" contains notes and relevent information about about the paper (not standardized yet) and "sif.txt" is the grn interactions for the paper. The image files are the main image from which the information was taken. 
+
+## HEADER EXAMPLE
+```
+#grn_title:Ikeuchi et al. (PLANT CELL PHYSIOL., 2018) Plant Regeneration
+#source_name:29462363
+#comments:enhanced yeast one-hybrid
+#tags:PLT3|ESR1|HSFB1|AP2/ERFs|LOB/AS2 
+---
+```
 
 ## TODO:
-1. get method standard symbol (Sorry, I forgot the name) 
-2. get interaction type (for sif file), for example just written as tfPromoter at present 
-3. finalize description.txt format for reading (very informal now) 
+Still unsure about the methods 
+1. expression profilling by array? 
+2. LC-MS analysis, do I only list the chemical method and not the software? 
+3. "enhanced yeast 2 hybrid?"
