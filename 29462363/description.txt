@@ -1,8 +1,0 @@
-enhanced yeast one-hybrid, 
-A Gene Regulatory Network for Cellular Reprogramming in Plant Regeneration,
-Momoko Ikeuchi, Michitaro Shibata, Bart Rymen, Akira Iwase, Anne-Maarit Bågman, Lewis Watt, Duncan Coleman, David S Favero, Tatsuya Takahashi, Sebastian E Ahnert, Siobhan M Brady, Keiko Sugimoto
-PMID:29462363
-PLT3, ESR1, HSFB1, AP2/ERFs, LOB/AS2
-2018 
-770–782
-Plant and Cell Physiology 
