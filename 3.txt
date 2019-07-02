@@ -1,7 +1,7 @@
 #grn_title:Zhang et al. (BMC PLANT BIOLOGY, 2019) Flower Development
 #source_name:30616516
 #comments:Dynamical network biomarker (DNB); Flower development; Gene regulatory network (GRN); Phase transition; Time-course gene expression data -Rachel
-#tags:we implemented a genome-wide dynamic network analysis on temporal gene expression data in Arabidopsis by dynamic network biomarker (DNB) method
+#tags:Expression profiling by array
 ---
 AT5G19970 mmi AT5G57785
 AT4G18070 mmi AT1G76360
