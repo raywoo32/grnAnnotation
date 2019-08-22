@@ -3,907 +3,907 @@
 #comments:Figure 2. eY1H Assays Define a Network of Ground Tissue Transcription Factor Interactions
 #tags:eY1H|SHORTROOT|TF|root ground tissue|SHORTROOT-SCARECROW|root|qRT-PCR
 ---
-AT1G01010       pdi     AT1G42990 eY1h 
-AT1G02340       pdi     AT1G34670 eY1h 
-AT1G02340       pdi     AT4G28110 eY1h 
-AT1G03840       pdi     AT1G69490 eY1h 
-AT1G04100       pdi     AT3G25790 eY1h 
-AT1G04100       pdi     AT5G49450 eY1h 
-AT1G05805       pdi     AT2G28710 eY1h 
-AT1G05805       pdi     AT3G25790 eY1h 
-AT1G06070       pdi     AT1G09250 eY1h 
-AT1G06070       pdi     AT5G59450 eY1h 
-AT1G06180       pdi     AT5G06839 eY1h 
-AT1G07520       pdi     AT1G15580 eY1h 
-AT1G07520       pdi     AT3G11580 eY1h 
-AT1G08970       pdi     AT1G69490 eY1h 
-AT1G09530       pdi     AT1G50640 eY1h 
-AT1G09530       pdi     AT1G51600 eY1h 
-AT1G09530       pdi     AT3G54220 eY1h 
-AT1G09530       pdi     AT3G62610 eY1h 
-AT1G09540       pdi     AT2G47460 eY1h 
-AT1G10120       pdi     AT5G25390 eY1h 
-AT1G12610       pdi     AT1G04240 eY1h 
-AT1G12610       pdi     AT1G05710 eY1h 
-AT1G12610       pdi     AT1G09250 eY1h 
-AT1G12610       pdi     AT1G15580 eY1h 
-AT1G12610       pdi     AT1G34670 eY1h 
-AT1G12610       pdi     AT1G42990 eY1h 
-AT1G12610       pdi     AT1G43700 eY1h 
-AT1G12610       pdi     AT1G51600 eY1h 
-AT1G12610       pdi     AT1G58220 eY1h 
-AT1G12610       pdi     AT1G69490 eY1h 
-AT1G12610       pdi     AT1G69600 eY1h 
-AT1G12610       pdi     AT1G71130 eY1h 
-AT1G12610       pdi     AT2G25000 eY1h 
-AT1G12610       pdi     AT2G44840 eY1h 
-AT1G12610       pdi     AT2G47520 eY1h 
-AT1G12610       pdi     AT3G23690 eY1h 
-AT1G12610       pdi     AT4G32040 eY1h 
-AT1G12610       pdi     AT4G37650 eY1h 
-AT1G12610       pdi     AT4G38340 eY1h 
-AT1G12610       pdi     AT5G07680 eY1h 
-AT1G12610       pdi     AT5G24590 eY1h 
-AT1G12610       pdi     AT5G26660 eY1h 
-AT1G12610       pdi     AT5G38140 eY1h 
-AT1G12610       pdi     AT5G51990 eY1h 
-AT1G12630       pdi     AT1G04240 eY1h 
-AT1G12630       pdi     AT1G15580 eY1h 
-AT1G12630       pdi     AT1G34670 eY1h 
-AT1G12630       pdi     AT4G32040 eY1h 
-AT1G12630       pdi     AT5G24590 eY1h 
-AT1G12630       pdi     AT5G59450 eY1h 
-AT1G12630       pdi     AT5G65790 eY1h 
-AT1G13960       pdi     AT1G04240 eY1h 
-AT1G13960       pdi     AT1G42990 eY1h 
-AT1G14580       pdi     AT1G14580 eY1h 
-AT1G14580       pdi     AT1G69490 eY1h 
-AT1G14580       pdi     AT5G51990 eY1h 
-AT1G15580       pdi     AT1G01380 eY1h 
-AT1G15580       pdi     AT1G80840 eY1h 
-AT1G15580       pdi     AT2G23290 eY1h 
-AT1G15580       pdi     AT2G46680 eY1h 
-AT1G15580       pdi     AT3G23690 eY1h 
-AT1G15580       pdi     AT4G35900 eY1h 
-AT1G15580       pdi     AT4G39410 eY1h 
-AT1G15580       pdi     AT5G16770 eY1h 
-AT1G15580       pdi     AT5G26660 eY1h 
-AT1G19000       pdi     AT5G51990 eY1h 
-AT1G20910       pdi     AT1G34670 eY1h 
-AT1G20910       pdi     AT4G28110 eY1h 
-AT1G20910       pdi     AT4G32040 eY1h 
-AT1G20910       pdi     AT5G07680 eY1h 
-AT1G20910       pdi     AT5G16770 eY1h 
-AT1G20910       pdi     AT5G24590 eY1h 
-AT1G21910       pdi     AT1G01380 eY1h 
-AT1G21910       pdi     AT1G04240 eY1h 
-AT1G21910       pdi     AT1G50640 eY1h 
-AT1G21910       pdi     AT1G71130 eY1h 
-AT1G21910       pdi     AT1G77450 eY1h 
-AT1G21910       pdi     AT1G80590 eY1h 
-AT1G21910       pdi     AT2G16910 eY1h 
-AT1G21910       pdi     AT2G44840 eY1h 
-AT1G21910       pdi     AT2G47460 eY1h 
-AT1G21910       pdi     AT4G32040 eY1h 
-AT1G21910       pdi     AT4G39070 eY1h 
-AT1G21910       pdi     AT5G07680 eY1h 
-AT1G21910       pdi     AT5G24590 eY1h 
-AT1G21910       pdi     AT5G26660 eY1h 
-AT1G21910       pdi     AT5G51990 eY1h 
-AT1G21910       pdi     AT5G52660 eY1h 
-AT1G21910       pdi     AT5G59450 eY1h 
-AT1G22640       pdi     AT1G69600 eY1h 
-AT1G22640       pdi     AT2G47460 eY1h 
-AT1G22810       pdi     AT1G14920 eY1h 
-AT1G22985       pdi     AT1G04240 eY1h 
-AT1G22985       pdi     AT5G07680 eY1h 
-AT1G23380       pdi     AT5G25390 eY1h 
-AT1G24625       pdi     AT2G44840 eY1h 
-AT1G24625       pdi     AT3G23690 eY1h 
-AT1G24625       pdi     AT5G59450 eY1h 
-AT1G26960       pdi     AT3G20840 eY1h 
-AT1G27730       pdi     AT1G80840 eY1h 
-AT1G27730       pdi     AT2G47520 eY1h 
-AT1G28370       pdi     AT4G28110 eY1h 
-AT1G29160       pdi     AT3G23690 eY1h 
-AT1G29160       pdi     AT5G51990 eY1h 
-AT1G30490       pdi     AT5G26660 eY1h 
-AT1G30810       pdi     AT4G37650 eY1h 
-AT1G32150       pdi     AT2G47460 eY1h 
-AT1G32640       pdi     AT1G29860 eY1h 
-AT1G32640       pdi     AT3G25790 eY1h 
-AT1G32870       pdi     AT4G37650 eY1h 
-AT1G35560       pdi     AT4G32040 eY1h 
-AT1G42990       pdi     AT5G25390 eY1h 
-AT1G43700       pdi     AT5G07680 eY1h 
-AT1G44810       pdi     AT5G25390 eY1h 
-AT1G44830       pdi     AT1G04240 eY1h 
-AT1G47870       pdi     AT1G01380 eY1h 
-AT1G47870       pdi     AT1G04240 eY1h 
-AT1G47870       pdi     AT1G09250 eY1h 
-AT1G47870       pdi     AT1G14580 eY1h 
-AT1G47870       pdi     AT1G15580 eY1h 
-AT1G47870       pdi     AT1G34670 eY1h 
-AT1G47870       pdi     AT1G42990 eY1h 
-AT1G47870       pdi     AT1G50640 eY1h 
-AT1G47870       pdi     AT1G58220 eY1h 
-AT1G47870       pdi     AT1G69490 eY1h 
-AT1G47870       pdi     AT1G69600 eY1h 
-AT1G47870       pdi     AT1G71130 eY1h 
-AT1G47870       pdi     AT1G72360 eY1h 
-AT1G47870       pdi     AT1G80840 eY1h 
-AT1G47870       pdi     AT2G23290 eY1h 
-AT1G47870       pdi     AT2G28710 eY1h 
-AT1G47870       pdi     AT2G40740 eY1h 
-AT1G47870       pdi     AT2G44840 eY1h 
-AT1G47870       pdi     AT2G46680 eY1h 
-AT1G47870       pdi     AT2G47520 eY1h 
-AT1G47870       pdi     AT3G11580 eY1h 
-AT1G47870       pdi     AT3G15500 eY1h 
-AT1G47870       pdi     AT3G18990 eY1h 
-AT1G47870       pdi     AT3G54220 eY1h 
-AT1G47870       pdi     AT4G28110 eY1h 
-AT1G47870       pdi     AT4G32040 eY1h 
-AT1G47870       pdi     AT4G35900 eY1h 
-AT1G47870       pdi     AT4G37650 eY1h 
-AT1G47870       pdi     AT4G37940 eY1h 
-AT1G47870       pdi     AT4G38340 eY1h 
-AT1G47870       pdi     AT4G39070 eY1h 
-AT1G47870       pdi     AT4G39410 eY1h 
-AT1G47870       pdi     AT5G03150 eY1h 
-AT1G47870       pdi     AT5G07680 eY1h 
-AT1G47870       pdi     AT5G15150 eY1h 
-AT1G47870       pdi     AT5G16770 eY1h 
-AT1G47870       pdi     AT5G17490 eY1h 
-AT1G47870       pdi     AT5G24590 eY1h 
-AT1G47870       pdi     AT5G25490 eY1h 
-AT1G47870       pdi     AT5G26660 eY1h 
-AT1G47870       pdi     AT5G38140 eY1h 
-AT1G47870       pdi     AT5G51990 eY1h 
-AT1G47870       pdi     AT5G52660 eY1h 
-AT1G50600       pdi     AT1G14580 eY1h 
-AT1G50640       pdi     AT1G58220 eY1h 
-AT1G50640       pdi     AT3G23690 eY1h 
-AT1G50640       pdi     AT4G32040 eY1h 
-AT1G50640       pdi     AT4G37940 eY1h 
-AT1G50640       pdi     AT5G07680 eY1h 
-AT1G50640       pdi     AT5G52660 eY1h 
-AT1G51140       pdi     AT5G25390 eY1h 
-AT1G54060       pdi     AT1G04240 eY1h 
-AT1G54060       pdi     AT1G34670 eY1h 
-AT1G54060       pdi     AT1G42990 eY1h 
-AT1G54060       pdi     AT1G58220 eY1h 
-AT1G54060       pdi     AT3G61850 eY1h 
-AT1G54060       pdi     AT4G32040 eY1h 
-AT1G54060       pdi     AT4G37650 eY1h 
-AT1G54060       pdi     AT4G37940 eY1h 
-AT1G54060       pdi     AT4G38340 eY1h 
-AT1G54060       pdi     AT5G07680 eY1h 
-AT1G54830       pdi     AT1G69490 eY1h 
-AT1G54830       pdi     AT4G28110 eY1h 
-AT1G54830       pdi     AT5G06839 eY1h 
-AT1G56170       pdi     AT1G69490 eY1h 
-AT1G56170       pdi     AT4G28110 eY1h 
-AT1G61730       pdi     AT1G01380 eY1h 
-AT1G61730       pdi     AT1G03840 eY1h 
-AT1G61730       pdi     AT1G04240 eY1h 
-AT1G61730       pdi     AT1G05710 eY1h 
-AT1G61730       pdi     AT1G09250 eY1h 
-AT1G61730       pdi     AT1G14920 eY1h 
-AT1G61730       pdi     AT1G15580 eY1h 
-AT1G61730       pdi     AT1G34670 eY1h 
-AT1G61730       pdi     AT1G42990 eY1h 
-AT1G61730       pdi     AT1G43700 eY1h 
-AT1G61730       pdi     AT1G50640 eY1h 
-AT1G61730       pdi     AT1G51600 eY1h 
-AT1G61730       pdi     AT1G58220 eY1h 
-AT1G61730       pdi     AT1G69600 eY1h 
-AT1G61730       pdi     AT1G72360 eY1h 
-AT1G61730       pdi     AT1G77450 eY1h 
-AT1G61730       pdi     AT1G80590 eY1h 
-AT1G61730       pdi     AT1G80840 eY1h 
-AT1G61730       pdi     AT2G16910 eY1h 
-AT1G61730       pdi     AT2G23290 eY1h 
-AT1G61730       pdi     AT2G25000 eY1h 
-AT1G61730       pdi     AT2G31730 eY1h 
-AT1G61730       pdi     AT2G40260 eY1h 
-AT1G61730       pdi     AT2G40740 eY1h 
-AT1G61730       pdi     AT2G44840 eY1h 
-AT1G61730       pdi     AT2G46680 eY1h 
-AT1G61730       pdi     AT2G47460 eY1h 
-AT1G61730       pdi     AT2G47520 eY1h 
-AT1G61730       pdi     AT3G11580 eY1h 
-AT1G61730       pdi     AT3G15500 eY1h 
-AT1G61730       pdi     AT3G18990 eY1h 
-AT1G61730       pdi     AT3G23690 eY1h 
-AT1G61730       pdi     AT3G46600 eY1h 
-AT1G61730       pdi     AT3G54220 eY1h 
-AT1G61730       pdi     AT4G00940 eY1h 
-AT1G61730       pdi     AT4G32040 eY1h 
-AT1G61730       pdi     AT4G35900 eY1h 
-AT1G61730       pdi     AT4G37650 eY1h 
-AT1G61730       pdi     AT4G37940 eY1h 
-AT1G61730       pdi     AT4G38340 eY1h 
-AT1G61730       pdi     AT4G39070 eY1h 
-AT1G61730       pdi     AT5G03150 eY1h 
-AT1G61730       pdi     AT5G06839 eY1h 
-AT1G61730       pdi     AT5G07680 eY1h 
-AT1G61730       pdi     AT5G15150 eY1h 
-AT1G61730       pdi     AT5G16770 eY1h 
-AT1G61730       pdi     AT5G17490 eY1h 
-AT1G61730       pdi     AT5G24590 eY1h 
-AT1G61730       pdi     AT5G25490 eY1h 
-AT1G61730       pdi     AT5G26660 eY1h 
-AT1G61730       pdi     AT5G38140 eY1h 
-AT1G61730       pdi     AT5G49450 eY1h 
-AT1G61730       pdi     AT5G51990 eY1h 
-AT1G61730       pdi     AT5G52660 eY1h 
-AT1G61730       pdi     AT5G59450 eY1h 
-AT1G61730       pdi     AT5G60890 eY1h 
-AT1G64530       pdi     AT1G34670 eY1h 
-AT1G66230       pdi     AT1G80590 eY1h 
-AT1G68840       pdi     AT1G69490 eY1h 
-AT1G68920       pdi     AT1G15580 eY1h 
-AT1G68920       pdi     AT1G69490 eY1h 
-AT1G68920       pdi     AT2G40260 eY1h 
-AT1G68920       pdi     AT5G51990 eY1h 
-AT1G69310       pdi     AT1G15580 eY1h 
-AT1G69310       pdi     AT1G69600 eY1h 
-AT1G69600       pdi     AT1G69490 eY1h 
-AT1G69780       pdi     AT4G37650 eY1h 
-AT1G71130       pdi     AT1G01380 eY1h 
-AT1G71130       pdi     AT1G04240 eY1h 
-AT1G71130       pdi     AT1G34670 eY1h 
-AT1G71130       pdi     AT1G58220 eY1h 
-AT1G71130       pdi     AT1G69600 eY1h 
-AT1G71130       pdi     AT1G71130 eY1h 
-AT1G71130       pdi     AT1G80840 eY1h 
-AT1G71130       pdi     AT2G28710 eY1h 
-AT1G71130       pdi     AT2G44840 eY1h 
-AT1G71130       pdi     AT3G11580 eY1h 
-AT1G71130       pdi     AT3G15500 eY1h 
-AT1G71130       pdi     AT3G23690 eY1h 
-AT1G71130       pdi     AT4G32040 eY1h 
-AT1G71130       pdi     AT4G37650 eY1h 
-AT1G71130       pdi     AT4G37940 eY1h 
-AT1G71130       pdi     AT4G38340 eY1h 
-AT1G71130       pdi     AT4G39070 eY1h 
-AT1G71130       pdi     AT5G07680 eY1h 
-AT1G71130       pdi     AT5G25490 eY1h 
-AT1G71130       pdi     AT5G38140 eY1h 
-AT1G71130       pdi     AT5G52660 eY1h 
-AT1G73730       pdi     AT1G80840 eY1h 
-AT1G75240       pdi     AT1G50640 eY1h 
-AT1G75240       pdi     AT4G18770 eY1h 
-AT1G75540       pdi     AT3G54220 eY1h 
-AT1G76510       pdi     AT1G42990 eY1h 
-AT1G76510       pdi     AT2G47460 eY1h 
-AT1G76880       pdi     AT1G04240 eY1h 
-AT1G76880       pdi     AT1G14920 eY1h 
-AT1G76880       pdi     AT1G42990 eY1h 
-AT1G76880       pdi     AT1G58220 eY1h 
-AT1G76880       pdi     AT1G69600 eY1h 
-AT1G76880       pdi     AT1G72360 eY1h 
-AT1G76880       pdi     AT3G11580 eY1h 
-AT1G76880       pdi     AT3G15500 eY1h 
-AT1G76880       pdi     AT3G23690 eY1h 
-AT1G76880       pdi     AT4G32040 eY1h 
-AT1G76880       pdi     AT4G37650 eY1h 
-AT1G76880       pdi     AT4G39070 eY1h 
-AT1G76880       pdi     AT5G03150 eY1h 
-AT1G76880       pdi     AT5G52660 eY1h 
-AT1G77450       pdi     AT3G23690 eY1h 
-AT1G77450       pdi     AT4G32040 eY1h 
-AT1G78600       pdi     AT1G72360 eY1h 
-AT1G78600       pdi     AT2G13960 eY1h 
-AT1G78600       pdi     AT3G50260 eY1h 
-AT1G78600       pdi     AT4G32040 eY1h 
-AT1G78600       pdi     AT5G16770 eY1h 
-AT1G79180       pdi     AT1G05710 eY1h 
-AT2G02070       pdi     AT1G14580 eY1h 
-AT2G02070       pdi     AT1G69490 eY1h 
-AT2G13960       pdi     AT1G09540 eY1h 
-AT2G13960       pdi     AT1G15580 eY1h 
-AT2G16720       pdi     AT5G65790 eY1h 
-AT2G21230       pdi     AT1G14580 eY1h 
-AT2G21230       pdi     AT3G54220 eY1h 
-AT2G21230       pdi     AT4G39410 eY1h 
-AT2G21230       pdi     AT5G54230 eY1h 
-AT2G21230       pdi     AT5G65790 eY1h 
-AT2G22430       pdi     AT2G28710 eY1h 
-AT2G22430       pdi     AT5G59450 eY1h 
-AT2G22760       pdi     AT1G14580 eY1h 
-AT2G22760       pdi     AT1G69490 eY1h 
-AT2G22840       pdi     AT1G04240 eY1h 
-AT2G22840       pdi     AT1G42990 eY1h 
-AT2G22840       pdi     AT2G44840 eY1h 
-AT2G22840       pdi     AT3G15500 eY1h 
-AT2G22840       pdi     AT4G32040 eY1h 
-AT2G22840       pdi     AT4G37650 eY1h 
-AT2G22840       pdi     AT4G38340 eY1h 
-AT2G22840       pdi     AT5G07680 eY1h 
-AT2G22850       pdi     AT2G47460 eY1h 
-AT2G23290       pdi     AT1G77450 eY1h 
-AT2G23290       pdi     AT1G80590 eY1h 
-AT2G23290       pdi     AT2G16910 eY1h 
-AT2G23290       pdi     AT2G40260 eY1h
-AT2G23290       pdi     AT2G44840 eY1h 
-AT2G23290       pdi     AT4G37940 eY1h 
-AT2G23290       pdi     AT4G38340 eY1h 
-AT2G23290       pdi     AT5G07680 eY1h 
-AT2G23290       pdi     AT5G25390 eY1h 
-AT2G23290       pdi     AT5G38140 eY1h 
-AT2G23290       pdi     AT5G59450 eY1h 
-AT2G23320       pdi     AT1G22810 eY1h 
-AT2G23320       pdi     AT1G80840 eY1h
-AT2G23340       pdi     AT4G28110 eY1h 
-AT2G24570       pdi     AT1G22810 eY1h 
-AT2G24570       pdi     AT1G42990 eY1h 
-AT2G24570       pdi     AT2G20880 eY1h 
-AT2G24570       pdi     AT2G28710 eY1h 
-AT2G24790       pdi     AT2G44840 eY1h 
-AT2G26940       pdi     AT1G03840 eY1h 
-AT2G26940       pdi     AT2G44840 eY1h 
-AT2G28350       pdi     AT4G37650 eY1h 
-AT2G28350       pdi     AT4G39410 eY1h 
-AT2G28810       pdi     AT4G28110 eY1h 
-AT2G28810       pdi     AT4G39410 eY1h 
-AT2G28810       pdi     AT5G54230 eY1h 
-AT2G30590       pdi     AT1G80840 eY1h 
-AT2G31230       pdi     AT1G04240 eY1h 
-AT2G31230       pdi     AT1G58220 eY1h 
-AT2G31230       pdi     AT1G80840 eY1h 
-AT2G31230       pdi     AT3G11580 eY1h 
-AT2G31230       pdi     AT3G15500 eY1h 
-AT2G31230       pdi     AT4G32040 eY1h 
-AT2G31230       pdi     AT4G37650 eY1h 
-AT2G31230       pdi     AT4G38340 eY1h 
-AT2G31370       pdi     AT2G47460 eY1h 
-AT2G33310       pdi     AT4G28110 eY1h 
-AT2G35940       pdi     AT2G40260 eY1h 
-AT2G36400       pdi     AT2G47460 eY1h 
-AT2G36400       pdi     AT3G61850 eY1h 
-AT2G38090       pdi     AT1G14580 eY1h 
-AT2G38470       pdi     AT2G28710 eY1h 
-AT2G38950       pdi     AT1G58220 eY1h 
-AT2G40620       pdi     AT1G14920 eY1h 
-AT2G40620       pdi     AT5G18680 eY1h 
-AT2G40620       pdi     AT5G52660 eY1h 
-AT2G40950       pdi     AT1G04240 eY1h 
-AT2G40950       pdi     AT1G71130 eY1h 
-AT2G40950       pdi     AT2G44840 eY1h 
-AT2G40950       pdi     AT2G47460 eY1h
-AT2G40950       pdi     AT3G02940 eY1h 
-AT2G40950       pdi     AT4G32040 eY1h 
-AT2G40950       pdi     AT4G37650 eY1h 
-AT2G40950       pdi     AT5G07680 eY1h 
-AT2G40950       pdi     AT5G52660 eY1h 
-AT2G40950       pdi     AT5G59450 eY1h 
-AT2G44730       pdi     AT1G01380 eY1h 
-AT2G44730       pdi     AT1G04240 eY1h 
-AT2G44730       pdi     AT1G05710 eY1h 
-AT2G44730       pdi     AT1G09250 eY1h 
-AT2G44730       pdi     AT1G09540 eY1h 
-AT2G44730       pdi     AT1G14920 eY1h 
-AT2G44730       pdi     AT1G22810 eY1h 
-AT2G44730       pdi     AT1G29860 eY1h 
-AT2G44730       pdi     AT1G34670 eY1h 
-AT2G44730       pdi     AT1G42990 eY1h 
-AT2G44730       pdi     AT1G43700 eY1h 
-AT2G44730       pdi     AT1G50640 eY1h 
-AT2G44730       pdi     AT1G51600 eY1h 
-AT2G44730       pdi     AT1G58220 eY1h 
-AT2G44730       pdi     AT1G69600 eY1h 
-AT2G44730       pdi     AT1G71130 eY1h 
-AT2G44730       pdi     AT1G72360 eY1h 
-AT2G44730       pdi     AT1G77450 eY1h 
-AT2G44730       pdi     AT1G80590 eY1h 
-AT2G44730       pdi     AT2G16910 eY1h 
-AT2G44730       pdi     AT2G22850 eY1h 
-AT2G44730       pdi     AT2G23290 eY1h 
-AT2G44730       pdi     AT2G28710 eY1h 
-AT2G44730       pdi     AT2G40260 eY1h 
-AT2G44730       pdi     AT2G40740 eY1h 
-AT2G44730       pdi     AT2G44840 eY1h 
-AT2G44730       pdi     AT2G46680 eY1h 
-AT2G44730       pdi     AT2G47460 eY1h 
-AT2G44730       pdi     AT3G02940 eY1h 
-AT2G44730       pdi     AT3G11580 eY1h 
-AT2G44730       pdi     AT3G15500 eY1h 
-AT2G44730       pdi     AT3G18990 eY1h 
-AT2G44730       pdi     AT3G23690 eY1h 
-AT2G44730       pdi     AT3G46600 eY1h 
-AT2G44730       pdi     AT3G54220 eY1h 
-AT2G44730       pdi     AT3G61850 eY1h 
-AT2G44730       pdi     AT3G62610 eY1h 
-AT2G44730       pdi     AT4G25490 eY1h 
-AT2G44730       pdi     AT4G32040 eY1h
-AT2G44730       pdi     AT4G37650 eY1h 
-AT2G44730       pdi     AT4G38340 eY1h 
-AT2G44730       pdi     AT4G39070 eY1h
-AT2G44730       pdi     AT5G03150 eY1h 
-AT2G44730       pdi     AT5G07680 eY1h
-AT2G44730       pdi     AT5G15150 eY1h 
-AT2G44730       pdi     AT5G16770 eY1h 
-AT2G44730       pdi     AT5G24590 eY1h 
-AT2G44730       pdi     AT5G25490 eY1h 
-AT2G44730       pdi     AT5G26660 eY1h
-AT2G44730       pdi     AT5G38140 eY1h 
-AT2G44730       pdi     AT5G41920 eY1h 
-AT2G44730       pdi     AT5G49450 eY1h 
-AT2G44730       pdi     AT5G51990 eY1h 
-AT2G44730       pdi     AT5G52660 eY1h 
-AT2G44730       pdi     AT5G59450 eY1h 
-AT2G44730       pdi     AT5G60890 eY1h
-AT2G44840       pdi     AT5G52660 eY1h 
-AT2G45160       pdi     AT2G46680 eY1h 
-AT2G45160       pdi     AT5G25390 eY1h 
-AT2G46270       pdi     AT1G04240 eY1h
-AT2G46270       pdi     AT1G80840 eY1h 
-AT2G46270       pdi     AT2G47460 eY1h 
-AT2G46270       pdi     AT3G15500 eY1h 
-AT2G46270       pdi     AT5G51990 eY1h
-AT2G46680       pdi     AT2G28710 eY1h 
-AT2G47260       pdi     AT1G14920 eY1h
-AT2G47260       pdi     AT1G15580 eY1h 
-AT2G47260       pdi     AT2G25000 eY1h 
-AT2G47260       pdi     AT5G52660 eY1h 
-AT2G47890       pdi     AT3G54220 eY1h
-AT2G47890       pdi     AT4G38340 eY1h 
-AT2G47890       pdi     AT5G07680 eY1h 
-AT2G48100       pdi     AT4G25490 eY1h 
-AT3G04070       pdi     AT1G42990 eY1h 
-AT3G06490       pdi     AT4G28110 eY1h 
-AT3G10500       pdi     AT3G15500 eY1h 
-AT3G10500       pdi     AT4G28110 eY1h 
-AT3G10500       pdi     AT5G06839 eY1h 
-AT3G11280       pdi     AT1G14580 eY1h 
-AT3G11280       pdi     AT5G51990 eY1h
-AT3G11580       pdi     AT1G04240 eY1h
-AT3G11580       pdi     AT2G44840 eY1h 
-AT3G11580       pdi     AT2G46680 eY1h 
-AT3G11580       pdi     AT4G37940 eY1h 
-AT3G11580       pdi     AT4G38340 eY1h
-AT3G11580       pdi     AT5G07680 eY1h 
-AT3G11580       pdi     AT5G51990 eY1h 
-AT3G14180       pdi     AT1G69600 eY1h
-AT3G14180       pdi     AT3G15500 eY1h
-AT3G15210       pdi     AT1G34670 eY1h
-AT3G15210       pdi     AT1G42990 eY1h
-AT3G15210       pdi     AT1G58220 eY1h
-AT3G15210       pdi     AT1G69600 eY1h
-AT3G15210       pdi     AT3G15500 eY1h
-AT3G15210       pdi     AT4G32040 eY1h
-AT3G15210       pdi     AT4G37650 eY1h
-AT3G15210       pdi     AT4G38340 eY1h
-AT3G15210       pdi     AT4G39070 eY1h
-AT3G15210       pdi     AT5G03150 eY1h
-AT3G15210       pdi     AT5G59450 eY1h
-AT3G16350       pdi     AT5G51990 eY1h
-AT3G16870       pdi     AT1G72360 eY1h
-AT3G16870       pdi     AT2G44840 eY1h
-AT3G18990       pdi     AT1G42990 eY1h
-AT3G19290       pdi     AT1G01380 eY1h
-AT3G19290       pdi     AT1G04240 eY1h
-AT3G19290       pdi     AT1G09250 eY1h
-AT3G19290       pdi     AT1G14920 eY1h
-AT3G19290       pdi     AT1G42990 eY1h
-AT3G19290       pdi     AT1G50640 eY1h
-AT3G19290       pdi     AT1G51600 eY1h
-AT3G19290       pdi     AT1G69490 eY1h
-AT3G19290       pdi     AT1G69600 eY1h
-AT3G19290       pdi     AT2G16910 eY1h
-AT3G19290       pdi     AT2G40260 eY1h
-AT3G19290       pdi     AT2G44840 eY1h
-AT3G19290       pdi     AT2G47460 eY1h
-AT3G19290       pdi     AT3G11580 eY1h
-AT3G19290       pdi     AT3G15500 eY1h
-AT3G19290       pdi     AT4G32040 eY1h
-AT3G19290       pdi     AT4G37650 eY1h
-AT3G19290       pdi     AT4G37940 eY1h
-AT3G19290       pdi     AT4G38340 eY1h
-AT3G19290       pdi     AT4G39070 eY1h
-AT3G19290       pdi     AT5G07680 eY1h
-AT3G19290       pdi     AT5G24590 eY1h
-AT3G19290       pdi     AT5G25490 eY1h
-AT3G19290       pdi     AT5G26660 eY1h
-AT3G19290       pdi     AT5G38140 eY1h
-AT3G19290       pdi     AT5G51990 eY1h
-AT3G19290       pdi     AT5G52660 eY1h
-AT3G19290       pdi     AT5G59450 eY1h
-AT3G19290       pdi     AT5G59820 eY1h
-AT3G19860       pdi     AT3G54220 eY1h
-AT3G19860       pdi     AT5G07680 eY1h
-AT3G20770       pdi     AT1G50640 eY1h
-AT3G21175       pdi     AT3G11440 eY1h
-AT3G21175       pdi     AT4G37650 eY1h
-AT3G23050       pdi     AT1G77450 eY1h
-AT3G23050       pdi     AT1G80590 eY1h
-AT3G24050       pdi     AT1G14920 eY1h
-AT3G24050       pdi     AT1G77450 eY1h
-AT3G24050       pdi     AT2G33480 eY1h
-AT3G24050       pdi     AT4G37940 eY1h
-AT3G24050       pdi     AT5G07680 eY1h
-AT3G24050       pdi     AT5G52660 eY1h
-AT3G24120       pdi     AT1G71130 eY1h
-AT3G24520       pdi     AT4G37650 eY1h
-AT3G25730       pdi     AT1G15580 eY1h
-AT3G25730       pdi     AT1G71130 eY1h
-AT3G25730       pdi     AT1G80590 eY1h
-AT3G25730       pdi     AT2G16910 eY1h
-AT3G25730       pdi     AT2G47460 eY1h
-AT3G25730       pdi     AT3G11580 eY1h
-AT3G25730       pdi     AT3G46600 eY1h
-AT3G25730       pdi     AT4G37650 eY1h
-AT3G25730       pdi     AT5G51990 eY1h
-AT3G25730       pdi     AT5G59450 eY1h
-AT3G25730       pdi     AT5G59820 eY1h
-AT3G25730       pdi     AT5G60890 eY1h
-AT3G26744       pdi     AT1G50640 eY1h
-AT3G28920       pdi     AT1G05710 eY1h
-AT3G28920       pdi     AT1G09250 eY1h
-AT3G28920       pdi     AT1G14920 eY1h
-AT3G28920       pdi     AT1G42990 eY1h
-AT3G28920       pdi     AT1G43700 eY1h
-AT3G28920       pdi     AT1G50640 eY1h
-AT3G28920       pdi     AT1G69600 eY1h
-AT3G28920       pdi     AT1G80840 eY1h
-AT3G28920       pdi     AT2G22850 eY1h
-AT3G28920       pdi     AT2G25000 eY1h
-AT3G28920       pdi     AT2G44840 eY1h
-AT3G28920       pdi     AT3G54220 eY1h
-AT3G28920       pdi     AT4G18770 eY1h
-AT3G28920       pdi     AT4G28110 eY1h
-AT3G28920       pdi     AT4G32040 eY1h
-AT3G28920       pdi     AT4G38340 eY1h
-AT3G28920       pdi     AT4G39070 eY1h
-AT3G28920       pdi     AT5G15150 eY1h
-AT3G28920       pdi     AT5G17490 eY1h
-AT3G42790       pdi     AT1G69490 eY1h
-AT3G49530       pdi     AT5G25390 eY1h
-AT3G49930       pdi     AT2G47460 eY1h
-AT3G50060       pdi     AT2G13960 eY1h
-AT3G50060       pdi     AT2G44840 eY1h
-AT3G50060       pdi     AT4G32040 eY1h
-AT3G50060       pdi     AT5G24590 eY1h
-AT3G50410       pdi     AT4G05100 eY1h
-AT3G53340       pdi     AT1G77450 eY1h
-AT3G53340       pdi     AT1G80590 eY1h
-AT3G53340       pdi     AT2G16910 eY1h
-AT3G53340       pdi     AT4G32040 eY1h
-AT3G54810       pdi     AT1G14920 eY1h
-AT3G54810       pdi     AT4G37940 eY1h
-AT3G54810       pdi     AT5G07680 eY1h
-AT3G54810       pdi     AT5G52660 eY1h
-AT3G56850       pdi     AT3G54220 eY1h
-AT3G57480       pdi     AT2G28710 eY1h
-AT3G57480       pdi     AT4G28110 eY1h
-AT3G60490       pdi     AT1G15580 eY1h
-AT3G60490       pdi     AT1G34670 eY1h
-AT3G60490       pdi     AT4G32040 eY1h
-AT3G60530       pdi     AT1G69600 eY1h
-AT3G60530       pdi     AT4G37940 eY1h
-AT3G60530       pdi     AT5G07680 eY1h
-AT3G60530       pdi     AT5G18680 eY1h
-AT3G60530       pdi     AT5G52660 eY1h
-AT3G61630       pdi     AT3G15500 eY1h
-AT3G61850       pdi     AT5G26660 eY1h
-AT3G61850       pdi     AT5G51990 eY1h
-AT3G61890       pdi     AT1G09540 eY1h
-AT3G62100       pdi     AT1G29860 eY1h
-AT3G62100       pdi     AT5G18680 eY1h
-AT4G00730       pdi     AT2G22430 eY1h
-AT4G00730       pdi     AT5G59450 eY1h
-AT4G00940       pdi     AT3G23690 eY1h
-AT4G00940       pdi     AT4G28110 eY1h
-AT4G00940       pdi     AT5G26660 eY1h
-AT4G00940       pdi     AT5G51990 eY1h
-AT4G01120       pdi     AT1G04240 eY1h
-AT4G01120       pdi     AT1G69600 eY1h
-AT4G01120       pdi     AT2G44840 eY1h
-AT4G01120       pdi     AT2G47460 eY1h
-AT4G01120       pdi     AT4G37940 eY1h
-AT4G01120       pdi     AT4G39070 eY1h
-AT4G01120       pdi     AT5G07680 eY1h
-AT4G01120       pdi     AT5G59820 eY1h
-AT4G05100       pdi     AT5G59450 eY1h
-AT4G17490       pdi     AT1G04240 eY1h
-AT4G17490       pdi     AT1G58220 eY1h
-AT4G17490       pdi     AT3G15500 eY1h
-AT4G17490       pdi     AT4G37650 eY1h
-AT4G17490       pdi     AT4G37940 eY1h
-AT4G17500       pdi     AT4G37940 eY1h
-AT4G18880       pdi     AT1G09250 eY1h
-AT4G24470       pdi     AT3G11440 eY1h
-AT4G25210       pdi     AT1G04240 eY1h
-AT4G25210       pdi     AT3G23690 eY1h
-AT4G25470       pdi     AT1G15580 eY1h
-AT4G25470       pdi     AT4G32040 eY1h
-AT4G25470       pdi     AT5G59450 eY1h
-AT4G26640       pdi     AT1G42990 eY1h
-AT4G28110       pdi     AT5G52660 eY1h
-AT4G28140       pdi     AT1G14580 eY1h
-AT4G28140       pdi     AT5G59450 eY1h
-AT4G29080       pdi     AT1G09540 eY1h
-AT4G29080       pdi     AT1G14920 eY1h
-AT4G29080       pdi     AT1G34670 eY1h
-AT4G29080       pdi     AT1G69600 eY1h
-AT4G29080       pdi     AT2G47460 eY1h
-AT4G29080       pdi     AT4G28110 eY1h
-AT4G29080       pdi     AT4G37940 eY1h
-AT4G29080       pdi     AT4G38340 eY1h
-AT4G29080       pdi     AT5G07680 eY1h
-AT4G30935       pdi     AT1G03840 eY1h
-AT4G31550       pdi     AT1G04240 eY1h
-AT4G31550       pdi     AT1G22810 eY1h
-AT4G31550       pdi     AT1G42990 eY1h
-AT4G31550       pdi     AT1G80840 eY1h
-AT4G31550       pdi     AT2G28710 eY1h
-AT4G34000       pdi     AT1G42990 eY1h
-AT4G34680       pdi     AT1G77450 eY1h
-AT4G34680       pdi     AT2G44840 eY1h
-AT4G34680       pdi     AT5G15150 eY1h
-AT4G34680       pdi     AT5G59820 eY1h
-AT4G35040       pdi     AT5G38140 eY1h
-AT4G36620       pdi     AT1G14920 eY1h
-AT4G36730       pdi     AT1G15580 eY1h
-AT4G36730       pdi     AT1G80590 eY1h
-AT4G36730       pdi     AT2G16910 eY1h
-AT4G36730       pdi     AT3G11580 eY1h
-AT4G36730       pdi     AT3G46600 eY1h
-AT4G36730       pdi     AT4G37650 eY1h
-AT4G36730       pdi     AT5G51990 eY1h
-AT4G36730       pdi     AT5G59450 eY1h
-AT4G36740       pdi     AT5G26660 eY1h
-AT4G36900       pdi     AT1G14580 eY1h
-AT4G36900       pdi     AT1G34670 eY1h
-AT4G36930       pdi     AT3G46600 eY1h
-AT4G37790       pdi     AT1G09540 eY1h
-AT4G37790       pdi     AT1G51600 eY1h
-AT4G37790       pdi     AT1G69490 eY1h
-AT4G37790       pdi     AT2G28710 eY1h
-AT4G37790       pdi     AT3G23690 eY1h
-AT4G37790       pdi     AT5G26660 eY1h
-AT4G39070       pdi     AT1G69490 eY1h
-AT5G01200       pdi     AT4G28110 eY1h
-AT5G01200       pdi     AT5G51990 eY1h
-AT5G05410       pdi     AT1G01380 eY1h
-AT5G05410       pdi     AT1G04240 eY1h
-AT5G05410       pdi     AT1G08320 eY1h
-AT5G05410       pdi     AT1G09250 eY1h
-AT5G05410       pdi     AT1G09540 eY1h
-AT5G05410       pdi     AT1G14920 eY1h
-AT5G05410       pdi     AT1G15580 eY1h
-AT5G05410       pdi     AT1G34670 eY1h
-AT5G05410       pdi     AT1G42990 eY1h
-AT5G05410       pdi     AT1G50640 eY1h
-AT5G05410       pdi     AT1G58220 eY1h
-AT5G05410       pdi     AT1G69600 eY1h
-AT5G05410       pdi     AT1G71130 eY1h
-AT5G05410       pdi     AT2G13960 eY1h
-AT5G05410       pdi     AT2G40740 eY1h
-AT5G05410       pdi     AT2G44840 eY1h
-AT5G05410       pdi     AT2G47460 eY1h
-AT5G05410       pdi     AT2G47520 eY1h
-AT5G05410       pdi     AT3G11580 eY1h
-AT5G05410       pdi     AT3G15500 eY1h
-AT5G05410       pdi     AT3G18990 eY1h
-AT5G05410       pdi     AT3G23690 eY1h
-AT5G05410       pdi     AT3G54220 eY1h
-AT5G05410       pdi     AT3G61850 eY1h
-AT5G05410       pdi     AT4G32040 eY1h
-AT5G05410       pdi     AT4G37650 eY1h
-AT5G05410       pdi     AT4G37940 eY1h
-AT5G05410       pdi     AT4G38340 eY1h
-AT5G05410       pdi     AT4G39070 eY1h
-AT5G05410       pdi     AT5G03150 eY1h
-AT5G05410       pdi     AT5G07680 eY1h
-AT5G05410       pdi     AT5G25490 eY1h
-AT5G05410       pdi     AT5G38140 eY1h
-AT5G05410       pdi     AT5G51990 eY1h
-AT5G05410       pdi     AT5G52660 eY1h
-AT5G05410       pdi     AT5G59450 eY1h
-AT5G05790       pdi     AT4G28110 eY1h
-AT5G05790       pdi     AT5G06839 eY1h
-AT5G06960       pdi     AT1G04240 eY1h
-AT5G06960       pdi     AT1G42990 eY1h
-AT5G06960       pdi     AT1G58220 eY1h
-AT5G06960       pdi     AT1G69490 eY1h
-AT5G06960       pdi     AT1G71130 eY1h
-AT5G06960       pdi     AT1G80840 eY1h
-AT5G06960       pdi     AT2G44840 eY1h
-AT5G06960       pdi     AT2G47460 eY1h
-AT5G06960       pdi     AT3G23690 eY1h
-AT5G06960       pdi     AT4G37650 eY1h
-AT5G06960       pdi     AT4G37940 eY1h
-AT5G06960       pdi     AT4G38340 eY1h
-AT5G06960       pdi     AT5G07680 eY1h
-AT5G06960       pdi     AT5G24590 eY1h
-AT5G06960       pdi     AT5G38140 eY1h
-AT5G06960       pdi     AT5G51990 eY1h
-AT5G06960       pdi     AT5G52660 eY1h
-AT5G06960       pdi     AT5G59450 eY1h
-AT5G06960       pdi     AT5G59820 eY1h
-AT5G07680       pdi     AT1G05710 eY1h
-AT5G07680       pdi     AT2G31730 eY1h
-AT5G08130       pdi     AT2G47520 eY1h
-AT5G09330       pdi     AT5G59820 eY1h
-AT5G10280       pdi     AT5G59820 eY1h
-AT5G10510       pdi     AT4G32040 eY1h
-AT5G13330       pdi     AT1G04240 eY1h
-AT5G13330       pdi     AT1G34670 eY1h
-AT5G13330       pdi     AT1G50640 eY1h
-AT5G13330       pdi     AT1G58220 eY1h
-AT5G13330       pdi     AT2G28710 eY1h
-AT5G13330       pdi     AT4G32040 eY1h
-AT5G13330       pdi     AT5G59450 eY1h
-AT5G13910       pdi     AT1G42990 eY1h
-AT5G13910       pdi     AT5G52660 eY1h
-AT5G14000       pdi     AT1G03840 eY1h
-AT5G14340       pdi     AT1G50640 eY1h
-AT5G18560       pdi     AT1G69490 eY1h
-AT5G18830       pdi     AT1G01380 eY1h
-AT5G18830       pdi     AT1G09250 eY1h
-AT5G18830       pdi     AT5G25490 eY1h
-AT5G18830       pdi     AT5G52660 eY1h
-AT5G22570       pdi     AT5G59820 eY1h
-AT5G25810       pdi     AT1G15580 eY1h
-AT5G25810       pdi     AT1G34670 eY1h
-AT5G25830       pdi     AT1G14920 eY1h
-AT5G25830       pdi     AT1G15580 eY1h
-AT5G25830       pdi     AT1G80590 eY1h
-AT5G25830       pdi     AT2G22430 eY1h
-AT5G25830       pdi     AT4G37940 eY1h
-AT5G25830       pdi     AT5G07680 eY1h
-AT5G25830       pdi     AT5G52660 eY1h
-AT5G25890       pdi     AT3G18990 eY1h
-AT5G26930       pdi     AT2G44840 eY1h
-AT5G28040       pdi     AT4G38340 eY1h
-AT5G28040       pdi     AT5G07680 eY1h
-AT5G28040       pdi     AT5G52660 eY1h
-AT5G37020       pdi     AT1G14580 eY1h
-AT5G37020       pdi     AT3G54220 eY1h
-AT5G37020       pdi     AT4G39410 eY1h
-AT5G37020       pdi     AT5G65790 eY1h
-AT5G43170       pdi     AT5G07680 eY1h
-AT5G43700       pdi     AT1G77450 eY1h
-AT5G43700       pdi     AT1G80590 eY1h
-AT5G43700       pdi     AT3G02940 eY1h
-AT5G43700       pdi     AT4G25490 eY1h
-AT5G43700       pdi     AT4G37940 eY1h
-AT5G44080       pdi     AT2G47460 eY1h
-AT5G44160       pdi     AT1G69490 eY1h
-AT5G44160       pdi     AT4G28110 eY1h
-AT5G44160       pdi     AT5G51990 eY1h
-AT5G44210       pdi     AT1G01380 eY1h
-AT5G44210       pdi     AT1G04240 eY1h
-AT5G44210       pdi     AT1G34670 eY1h
-AT5G44210       pdi     AT1G42990 eY1h
-AT5G44210       pdi     AT1G50640 eY1h
-AT5G44210       pdi     AT1G58220 eY1h
-AT5G44210       pdi     AT1G69490 eY1h
-AT5G44210       pdi     AT1G69600 eY1h
-AT5G44210       pdi     AT2G16910 eY1h
-AT5G44210       pdi     AT2G40260 eY1h
-AT5G44210       pdi     AT2G44840 eY1h
-AT5G44210       pdi     AT2G47520 eY1h
-AT5G44210       pdi     AT3G11580 eY1h
-AT5G44210       pdi     AT3G15500 eY1h
-AT5G44210       pdi     AT4G32040 eY1h
-AT5G44210       pdi     AT4G37650 eY1h
-AT5G44210       pdi     AT4G38340 eY1h
-AT5G44210       pdi     AT4G39070 eY1h
-AT5G44210       pdi     AT5G03150 eY1h
-AT5G44210       pdi     AT5G07680 eY1h
-AT5G44210       pdi     AT5G51990 eY1h
-AT5G44210       pdi     AT5G59450 eY1h
-AT5G47220       pdi     AT1G04240 eY1h
-AT5G47220       pdi     AT1G14580 eY1h
-AT5G47220       pdi     AT1G42990 eY1h
-AT5G47220       pdi     AT1G58220 eY1h
-AT5G47220       pdi     AT1G69600 eY1h
-AT5G47220       pdi     AT2G44840 eY1h
-AT5G47220       pdi     AT4G32040 eY1h
-AT5G47220       pdi     AT4G37650 eY1h
-AT5G47230       pdi     AT1G08320 eY1h
-AT5G47230       pdi     AT1G58220 eY1h
-AT5G47230       pdi     AT2G44840 eY1h
-AT5G47230       pdi     AT3G20840 eY1h
-AT5G47230       pdi     AT3G50260 eY1h
-AT5G47230       pdi     AT4G37650 eY1h
-AT5G47230       pdi     AT5G07680 eY1h
-AT5G51990       pdi     AT1G04240 eY1h
-AT5G51990       pdi     AT1G14580 eY1h
-AT5G51990       pdi     AT1G15580 eY1h
-AT5G52020       pdi     AT1G15580 eY1h
-AT5G54230       pdi     AT4G39410 eY1h
-AT5G54470       pdi     AT3G20840 eY1h
-AT5G54680       pdi     AT2G47460 eY1h
-AT5G54680       pdi     AT3G54220 eY1h
-AT5G54680       pdi     AT5G38140 eY1h
-AT5G58010       pdi     AT2G25650 eY1h
-AT5G59450       pdi     AT1G50640 eY1h
-AT5G60850       pdi     AT3G23690 eY1h
-AT5G60850       pdi     AT4G32040 eY1h
-AT5G61590       pdi     AT1G04240 eY1h
-AT5G61590       pdi     AT1G42990 eY1h
-AT5G61590       pdi     AT1G58220 eY1h
-AT5G61590       pdi     AT1G69600 eY1h
-AT5G61590       pdi     AT2G44840 eY1h
-AT5G61590       pdi     AT2G47520 eY1h
-AT5G61590       pdi     AT3G02940 eY1h
-AT5G61590       pdi     AT3G11580 eY1h
-AT5G61590       pdi     AT3G15500 eY1h
-AT5G61590       pdi     AT3G54220 eY1h
-AT5G61590       pdi     AT3G62610 eY1h
-AT5G61590       pdi     AT4G25490 eY1h
-AT5G61590       pdi     AT4G32040 eY1h
-AT5G61590       pdi     AT4G37650 eY1h
-AT5G61590       pdi     AT4G37940 eY1h
-AT5G61590       pdi     AT4G39070 eY1h
-AT5G61590       pdi     AT5G38140 eY1h
-AT5G61590       pdi     AT5G41920 eY1h
-AT5G61590       pdi     AT5G52660 eY1h
-AT5G61600       pdi     AT1G04240 eY1h
-AT5G61600       pdi     AT3G02940 eY1h
-AT5G61600       pdi     AT3G54220 eY1h
-AT5G61600       pdi     AT3G62610 eY1h
-AT5G61600       pdi     AT5G41920 eY1h
-AT5G61890       pdi     AT1G34670 eY1h
-AT5G61890       pdi     AT4G28110 eY1h
-AT5G61890       pdi     AT4G35900 eY1h
-AT5G61890       pdi     AT4G39410 eY1h
-AT5G61890       pdi     AT5G06839 eY1h
-AT5G62610       pdi     AT1G51600 eY1h
-AT5G62610       pdi     AT2G28710 eY1h
-AT5G62610       pdi     AT2G47460 eY1h
-AT5G62610       pdi     AT3G25790 eY1h
-AT5G62610       pdi     AT5G59450 eY1h
-AT5G62610       pdi     AT5G60890 eY1h
-AT5G63280       pdi     AT5G06839 eY1h
-AT5G63790       pdi     AT1G04240 eY1h
-AT5G63790       pdi     AT2G22850 eY1h
-AT5G63790       pdi     AT5G26660 eY1h
-AT5G65310       pdi     AT1G69490 eY1h
-AT5G65640       pdi     AT2G40260 eY1h
-AT5G65640       pdi     AT3G54220 eY1h
-AT5G65640       pdi     AT3G62610 eY1h
-AT5G65640       pdi     AT5G49450 eY1h
-AT5G65790       pdi     AT2G38470 eY1h
-AT5G66320       pdi     AT1G14920 eY1h
-AT5G66320       pdi     AT4G37940 eY1h
-AT5G66320       pdi     AT5G07680 eY1h
-AT5G67190       pdi     AT5G06839 eY1h
+AT1G01010       pdi     AT1G42990|432|915 
+AT1G02340       pdi     AT1G34670|432|915 
+AT1G02340       pdi     AT4G28110|432|915 
+AT1G03840       pdi     AT1G69490|432|915 
+AT1G04100       pdi     AT3G25790|432|915 
+AT1G04100       pdi     AT5G49450|432|915 
+AT1G05805       pdi     AT2G28710|432|915 
+AT1G05805       pdi     AT3G25790|432|915 
+AT1G06070       pdi     AT1G09250|432|915 
+AT1G06070       pdi     AT5G59450|432|915 
+AT1G06180       pdi     AT5G06839|432|915 
+AT1G07520       pdi     AT1G15580|432|915 
+AT1G07520       pdi     AT3G11580|432|915 
+AT1G08970       pdi     AT1G69490|432|915 
+AT1G09530       pdi     AT1G50640|432|915 
+AT1G09530       pdi     AT1G51600|432|915 
+AT1G09530       pdi     AT3G54220|432|915 
+AT1G09530       pdi     AT3G62610|432|915 
+AT1G09540       pdi     AT2G47460|432|915 
+AT1G10120       pdi     AT5G25390|432|915 
+AT1G12610       pdi     AT1G04240|432|915 
+AT1G12610       pdi     AT1G05710|432|915 
+AT1G12610       pdi     AT1G09250|432|915 
+AT1G12610       pdi     AT1G15580|432|915 
+AT1G12610       pdi     AT1G34670|432|915 
+AT1G12610       pdi     AT1G42990|432|915 
+AT1G12610       pdi     AT1G43700|432|915 
+AT1G12610       pdi     AT1G51600|432|915 
+AT1G12610       pdi     AT1G58220|432|915 
+AT1G12610       pdi     AT1G69490|432|915 
+AT1G12610       pdi     AT1G69600|432|915 
+AT1G12610       pdi     AT1G71130|432|915 
+AT1G12610       pdi     AT2G25000|432|915 
+AT1G12610       pdi     AT2G44840|432|915 
+AT1G12610       pdi     AT2G47520|432|915 
+AT1G12610       pdi     AT3G23690|432|915 
+AT1G12610       pdi     AT4G32040|432|915 
+AT1G12610       pdi     AT4G37650|432|915 
+AT1G12610       pdi     AT4G38340|432|915 
+AT1G12610       pdi     AT5G07680|432|915 
+AT1G12610       pdi     AT5G24590|432|915 
+AT1G12610       pdi     AT5G26660|432|915 
+AT1G12610       pdi     AT5G38140|432|915 
+AT1G12610       pdi     AT5G51990|432|915 
+AT1G12630       pdi     AT1G04240|432|915 
+AT1G12630       pdi     AT1G15580|432|915 
+AT1G12630       pdi     AT1G34670|432|915 
+AT1G12630       pdi     AT4G32040|432|915 
+AT1G12630       pdi     AT5G24590|432|915 
+AT1G12630       pdi     AT5G59450|432|915 
+AT1G12630       pdi     AT5G65790|432|915 
+AT1G13960       pdi     AT1G04240|432|915 
+AT1G13960       pdi     AT1G42990|432|915 
+AT1G14580       pdi     AT1G14580|432|915 
+AT1G14580       pdi     AT1G69490|432|915 
+AT1G14580       pdi     AT5G51990|432|915 
+AT1G15580       pdi     AT1G01380|432|915 
+AT1G15580       pdi     AT1G80840|432|915 
+AT1G15580       pdi     AT2G23290|432|915 
+AT1G15580       pdi     AT2G46680|432|915 
+AT1G15580       pdi     AT3G23690|432|915 
+AT1G15580       pdi     AT4G35900|432|915 
+AT1G15580       pdi     AT4G39410|432|915 
+AT1G15580       pdi     AT5G16770|432|915 
+AT1G15580       pdi     AT5G26660|432|915 
+AT1G19000       pdi     AT5G51990|432|915 
+AT1G20910       pdi     AT1G34670|432|915 
+AT1G20910       pdi     AT4G28110|432|915 
+AT1G20910       pdi     AT4G32040|432|915 
+AT1G20910       pdi     AT5G07680|432|915 
+AT1G20910       pdi     AT5G16770|432|915 
+AT1G20910       pdi     AT5G24590|432|915 
+AT1G21910       pdi     AT1G01380|432|915 
+AT1G21910       pdi     AT1G04240|432|915 
+AT1G21910       pdi     AT1G50640|432|915 
+AT1G21910       pdi     AT1G71130|432|915 
+AT1G21910       pdi     AT1G77450|432|915 
+AT1G21910       pdi     AT1G80590|432|915 
+AT1G21910       pdi     AT2G16910|432|915 
+AT1G21910       pdi     AT2G44840|432|915 
+AT1G21910       pdi     AT2G47460|432|915 
+AT1G21910       pdi     AT4G32040|432|915 
+AT1G21910       pdi     AT4G39070|432|915 
+AT1G21910       pdi     AT5G07680|432|915 
+AT1G21910       pdi     AT5G24590|432|915 
+AT1G21910       pdi     AT5G26660|432|915 
+AT1G21910       pdi     AT5G51990|432|915 
+AT1G21910       pdi     AT5G52660|432|915 
+AT1G21910       pdi     AT5G59450|432|915 
+AT1G22640       pdi     AT1G69600|432|915 
+AT1G22640       pdi     AT2G47460|432|915 
+AT1G22810       pdi     AT1G14920|432|915 
+AT1G22985       pdi     AT1G04240|432|915 
+AT1G22985       pdi     AT5G07680|432|915 
+AT1G23380       pdi     AT5G25390|432|915 
+AT1G24625       pdi     AT2G44840|432|915 
+AT1G24625       pdi     AT3G23690|432|915 
+AT1G24625       pdi     AT5G59450|432|915 
+AT1G26960       pdi     AT3G20840|432|915 
+AT1G27730       pdi     AT1G80840|432|915 
+AT1G27730       pdi     AT2G47520|432|915 
+AT1G28370       pdi     AT4G28110|432|915 
+AT1G29160       pdi     AT3G23690|432|915 
+AT1G29160       pdi     AT5G51990|432|915 
+AT1G30490       pdi     AT5G26660|432|915 
+AT1G30810       pdi     AT4G37650|432|915 
+AT1G32150       pdi     AT2G47460|432|915 
+AT1G32640       pdi     AT1G29860|432|915 
+AT1G32640       pdi     AT3G25790|432|915 
+AT1G32870       pdi     AT4G37650|432|915 
+AT1G35560       pdi     AT4G32040|432|915 
+AT1G42990       pdi     AT5G25390|432|915 
+AT1G43700       pdi     AT5G07680|432|915 
+AT1G44810       pdi     AT5G25390|432|915 
+AT1G44830       pdi     AT1G04240|432|915 
+AT1G47870       pdi     AT1G01380|432|915 
+AT1G47870       pdi     AT1G04240|432|915 
+AT1G47870       pdi     AT1G09250|432|915 
+AT1G47870       pdi     AT1G14580|432|915 
+AT1G47870       pdi     AT1G15580|432|915 
+AT1G47870       pdi     AT1G34670|432|915 
+AT1G47870       pdi     AT1G42990|432|915 
+AT1G47870       pdi     AT1G50640|432|915 
+AT1G47870       pdi     AT1G58220|432|915 
+AT1G47870       pdi     AT1G69490|432|915 
+AT1G47870       pdi     AT1G69600|432|915 
+AT1G47870       pdi     AT1G71130|432|915 
+AT1G47870       pdi     AT1G72360|432|915 
+AT1G47870       pdi     AT1G80840|432|915 
+AT1G47870       pdi     AT2G23290|432|915 
+AT1G47870       pdi     AT2G28710|432|915 
+AT1G47870       pdi     AT2G40740|432|915 
+AT1G47870       pdi     AT2G44840|432|915 
+AT1G47870       pdi     AT2G46680|432|915 
+AT1G47870       pdi     AT2G47520|432|915 
+AT1G47870       pdi     AT3G11580|432|915 
+AT1G47870       pdi     AT3G15500|432|915 
+AT1G47870       pdi     AT3G18990|432|915 
+AT1G47870       pdi     AT3G54220|432|915 
+AT1G47870       pdi     AT4G28110|432|915 
+AT1G47870       pdi     AT4G32040|432|915 
+AT1G47870       pdi     AT4G35900|432|915 
+AT1G47870       pdi     AT4G37650|432|915 
+AT1G47870       pdi     AT4G37940|432|915 
+AT1G47870       pdi     AT4G38340|432|915 
+AT1G47870       pdi     AT4G39070|432|915 
+AT1G47870       pdi     AT4G39410|432|915 
+AT1G47870       pdi     AT5G03150|432|915 
+AT1G47870       pdi     AT5G07680|432|915 
+AT1G47870       pdi     AT5G15150|432|915 
+AT1G47870       pdi     AT5G16770|432|915 
+AT1G47870       pdi     AT5G17490|432|915 
+AT1G47870       pdi     AT5G24590|432|915 
+AT1G47870       pdi     AT5G25490|432|915 
+AT1G47870       pdi     AT5G26660|432|915 
+AT1G47870       pdi     AT5G38140|432|915 
+AT1G47870       pdi     AT5G51990|432|915 
+AT1G47870       pdi     AT5G52660|432|915 
+AT1G50600       pdi     AT1G14580|432|915 
+AT1G50640       pdi     AT1G58220|432|915 
+AT1G50640       pdi     AT3G23690|432|915 
+AT1G50640       pdi     AT4G32040|432|915 
+AT1G50640       pdi     AT4G37940|432|915 
+AT1G50640       pdi     AT5G07680|432|915 
+AT1G50640       pdi     AT5G52660|432|915 
+AT1G51140       pdi     AT5G25390|432|915 
+AT1G54060       pdi     AT1G04240|432|915 
+AT1G54060       pdi     AT1G34670|432|915 
+AT1G54060       pdi     AT1G42990|432|915 
+AT1G54060       pdi     AT1G58220|432|915 
+AT1G54060       pdi     AT3G61850|432|915 
+AT1G54060       pdi     AT4G32040|432|915 
+AT1G54060       pdi     AT4G37650|432|915 
+AT1G54060       pdi     AT4G37940|432|915 
+AT1G54060       pdi     AT4G38340|432|915 
+AT1G54060       pdi     AT5G07680|432|915 
+AT1G54830       pdi     AT1G69490|432|915 
+AT1G54830       pdi     AT4G28110|432|915 
+AT1G54830       pdi     AT5G06839|432|915 
+AT1G56170       pdi     AT1G69490|432|915 
+AT1G56170       pdi     AT4G28110|432|915 
+AT1G61730       pdi     AT1G01380|432|915 
+AT1G61730       pdi     AT1G03840|432|915 
+AT1G61730       pdi     AT1G04240|432|915 
+AT1G61730       pdi     AT1G05710|432|915 
+AT1G61730       pdi     AT1G09250|432|915 
+AT1G61730       pdi     AT1G14920|432|915 
+AT1G61730       pdi     AT1G15580|432|915 
+AT1G61730       pdi     AT1G34670|432|915 
+AT1G61730       pdi     AT1G42990|432|915 
+AT1G61730       pdi     AT1G43700|432|915 
+AT1G61730       pdi     AT1G50640|432|915 
+AT1G61730       pdi     AT1G51600|432|915 
+AT1G61730       pdi     AT1G58220|432|915 
+AT1G61730       pdi     AT1G69600|432|915 
+AT1G61730       pdi     AT1G72360|432|915 
+AT1G61730       pdi     AT1G77450|432|915 
+AT1G61730       pdi     AT1G80590|432|915 
+AT1G61730       pdi     AT1G80840|432|915 
+AT1G61730       pdi     AT2G16910|432|915 
+AT1G61730       pdi     AT2G23290|432|915 
+AT1G61730       pdi     AT2G25000|432|915 
+AT1G61730       pdi     AT2G31730|432|915 
+AT1G61730       pdi     AT2G40260|432|915 
+AT1G61730       pdi     AT2G40740|432|915 
+AT1G61730       pdi     AT2G44840|432|915 
+AT1G61730       pdi     AT2G46680|432|915 
+AT1G61730       pdi     AT2G47460|432|915 
+AT1G61730       pdi     AT2G47520|432|915 
+AT1G61730       pdi     AT3G11580|432|915 
+AT1G61730       pdi     AT3G15500|432|915 
+AT1G61730       pdi     AT3G18990|432|915 
+AT1G61730       pdi     AT3G23690|432|915 
+AT1G61730       pdi     AT3G46600|432|915 
+AT1G61730       pdi     AT3G54220|432|915 
+AT1G61730       pdi     AT4G00940|432|915 
+AT1G61730       pdi     AT4G32040|432|915 
+AT1G61730       pdi     AT4G35900|432|915 
+AT1G61730       pdi     AT4G37650|432|915 
+AT1G61730       pdi     AT4G37940|432|915 
+AT1G61730       pdi     AT4G38340|432|915 
+AT1G61730       pdi     AT4G39070|432|915 
+AT1G61730       pdi     AT5G03150|432|915 
+AT1G61730       pdi     AT5G06839|432|915 
+AT1G61730       pdi     AT5G07680|432|915 
+AT1G61730       pdi     AT5G15150|432|915 
+AT1G61730       pdi     AT5G16770|432|915 
+AT1G61730       pdi     AT5G17490|432|915 
+AT1G61730       pdi     AT5G24590|432|915 
+AT1G61730       pdi     AT5G25490|432|915 
+AT1G61730       pdi     AT5G26660|432|915 
+AT1G61730       pdi     AT5G38140|432|915 
+AT1G61730       pdi     AT5G49450|432|915 
+AT1G61730       pdi     AT5G51990|432|915 
+AT1G61730       pdi     AT5G52660|432|915 
+AT1G61730       pdi     AT5G59450|432|915 
+AT1G61730       pdi     AT5G60890|432|915 
+AT1G64530       pdi     AT1G34670|432|915 
+AT1G66230       pdi     AT1G80590|432|915 
+AT1G68840       pdi     AT1G69490|432|915 
+AT1G68920       pdi     AT1G15580|432|915 
+AT1G68920       pdi     AT1G69490|432|915 
+AT1G68920       pdi     AT2G40260|432|915 
+AT1G68920       pdi     AT5G51990|432|915 
+AT1G69310       pdi     AT1G15580|432|915 
+AT1G69310       pdi     AT1G69600|432|915 
+AT1G69600       pdi     AT1G69490|432|915 
+AT1G69780       pdi     AT4G37650|432|915 
+AT1G71130       pdi     AT1G01380|432|915 
+AT1G71130       pdi     AT1G04240|432|915 
+AT1G71130       pdi     AT1G34670|432|915 
+AT1G71130       pdi     AT1G58220|432|915 
+AT1G71130       pdi     AT1G69600|432|915 
+AT1G71130       pdi     AT1G71130|432|915 
+AT1G71130       pdi     AT1G80840|432|915 
+AT1G71130       pdi     AT2G28710|432|915 
+AT1G71130       pdi     AT2G44840|432|915 
+AT1G71130       pdi     AT3G11580|432|915 
+AT1G71130       pdi     AT3G15500|432|915 
+AT1G71130       pdi     AT3G23690|432|915 
+AT1G71130       pdi     AT4G32040|432|915 
+AT1G71130       pdi     AT4G37650|432|915 
+AT1G71130       pdi     AT4G37940|432|915 
+AT1G71130       pdi     AT4G38340|432|915 
+AT1G71130       pdi     AT4G39070|432|915 
+AT1G71130       pdi     AT5G07680|432|915 
+AT1G71130       pdi     AT5G25490|432|915 
+AT1G71130       pdi     AT5G38140|432|915 
+AT1G71130       pdi     AT5G52660|432|915 
+AT1G73730       pdi     AT1G80840|432|915 
+AT1G75240       pdi     AT1G50640|432|915 
+AT1G75240       pdi     AT4G18770|432|915 
+AT1G75540       pdi     AT3G54220|432|915 
+AT1G76510       pdi     AT1G42990|432|915 
+AT1G76510       pdi     AT2G47460|432|915 
+AT1G76880       pdi     AT1G04240|432|915 
+AT1G76880       pdi     AT1G14920|432|915 
+AT1G76880       pdi     AT1G42990|432|915 
+AT1G76880       pdi     AT1G58220|432|915 
+AT1G76880       pdi     AT1G69600|432|915 
+AT1G76880       pdi     AT1G72360|432|915 
+AT1G76880       pdi     AT3G11580|432|915 
+AT1G76880       pdi     AT3G15500|432|915 
+AT1G76880       pdi     AT3G23690|432|915 
+AT1G76880       pdi     AT4G32040|432|915 
+AT1G76880       pdi     AT4G37650|432|915 
+AT1G76880       pdi     AT4G39070|432|915 
+AT1G76880       pdi     AT5G03150|432|915 
+AT1G76880       pdi     AT5G52660|432|915 
+AT1G77450       pdi     AT3G23690|432|915 
+AT1G77450       pdi     AT4G32040|432|915 
+AT1G78600       pdi     AT1G72360|432|915 
+AT1G78600       pdi     AT2G13960|432|915 
+AT1G78600       pdi     AT3G50260|432|915 
+AT1G78600       pdi     AT4G32040|432|915 
+AT1G78600       pdi     AT5G16770|432|915 
+AT1G79180       pdi     AT1G05710|432|915 
+AT2G02070       pdi     AT1G14580|432|915 
+AT2G02070       pdi     AT1G69490|432|915 
+AT2G13960       pdi     AT1G09540|432|915 
+AT2G13960       pdi     AT1G15580|432|915 
+AT2G16720       pdi     AT5G65790|432|915 
+AT2G21230       pdi     AT1G14580|432|915 
+AT2G21230       pdi     AT3G54220|432|915 
+AT2G21230       pdi     AT4G39410|432|915 
+AT2G21230       pdi     AT5G54230|432|915 
+AT2G21230       pdi     AT5G65790|432|915 
+AT2G22430       pdi     AT2G28710|432|915 
+AT2G22430       pdi     AT5G59450|432|915 
+AT2G22760       pdi     AT1G14580|432|915 
+AT2G22760       pdi     AT1G69490|432|915 
+AT2G22840       pdi     AT1G04240|432|915 
+AT2G22840       pdi     AT1G42990|432|915 
+AT2G22840       pdi     AT2G44840|432|915 
+AT2G22840       pdi     AT3G15500|432|915 
+AT2G22840       pdi     AT4G32040|432|915 
+AT2G22840       pdi     AT4G37650|432|915 
+AT2G22840       pdi     AT4G38340|432|915 
+AT2G22840       pdi     AT5G07680|432|915 
+AT2G22850       pdi     AT2G47460|432|915 
+AT2G23290       pdi     AT1G77450|432|915 
+AT2G23290       pdi     AT1G80590|432|915 
+AT2G23290       pdi     AT2G16910|432|915 
+AT2G23290       pdi     AT2G40260|432|915
+AT2G23290       pdi     AT2G44840|432|915 
+AT2G23290       pdi     AT4G37940|432|915 
+AT2G23290       pdi     AT4G38340|432|915 
+AT2G23290       pdi     AT5G07680|432|915 
+AT2G23290       pdi     AT5G25390|432|915 
+AT2G23290       pdi     AT5G38140|432|915 
+AT2G23290       pdi     AT5G59450|432|915 
+AT2G23320       pdi     AT1G22810|432|915 
+AT2G23320       pdi     AT1G80840|432|915
+AT2G23340       pdi     AT4G28110|432|915 
+AT2G24570       pdi     AT1G22810|432|915 
+AT2G24570       pdi     AT1G42990|432|915 
+AT2G24570       pdi     AT2G20880|432|915 
+AT2G24570       pdi     AT2G28710|432|915 
+AT2G24790       pdi     AT2G44840|432|915 
+AT2G26940       pdi     AT1G03840|432|915 
+AT2G26940       pdi     AT2G44840|432|915 
+AT2G28350       pdi     AT4G37650|432|915 
+AT2G28350       pdi     AT4G39410|432|915 
+AT2G28810       pdi     AT4G28110|432|915 
+AT2G28810       pdi     AT4G39410|432|915 
+AT2G28810       pdi     AT5G54230|432|915 
+AT2G30590       pdi     AT1G80840|432|915 
+AT2G31230       pdi     AT1G04240|432|915 
+AT2G31230       pdi     AT1G58220|432|915 
+AT2G31230       pdi     AT1G80840|432|915 
+AT2G31230       pdi     AT3G11580|432|915 
+AT2G31230       pdi     AT3G15500|432|915 
+AT2G31230       pdi     AT4G32040|432|915 
+AT2G31230       pdi     AT4G37650|432|915 
+AT2G31230       pdi     AT4G38340|432|915 
+AT2G31370       pdi     AT2G47460|432|915 
+AT2G33310       pdi     AT4G28110|432|915 
+AT2G35940       pdi     AT2G40260|432|915 
+AT2G36400       pdi     AT2G47460|432|915 
+AT2G36400       pdi     AT3G61850|432|915 
+AT2G38090       pdi     AT1G14580|432|915 
+AT2G38470       pdi     AT2G28710|432|915 
+AT2G38950       pdi     AT1G58220|432|915 
+AT2G40620       pdi     AT1G14920|432|915 
+AT2G40620       pdi     AT5G18680|432|915 
+AT2G40620       pdi     AT5G52660|432|915 
+AT2G40950       pdi     AT1G04240|432|915 
+AT2G40950       pdi     AT1G71130|432|915 
+AT2G40950       pdi     AT2G44840|432|915 
+AT2G40950       pdi     AT2G47460|432|915
+AT2G40950       pdi     AT3G02940|432|915 
+AT2G40950       pdi     AT4G32040|432|915 
+AT2G40950       pdi     AT4G37650|432|915 
+AT2G40950       pdi     AT5G07680|432|915 
+AT2G40950       pdi     AT5G52660|432|915 
+AT2G40950       pdi     AT5G59450|432|915 
+AT2G44730       pdi     AT1G01380|432|915 
+AT2G44730       pdi     AT1G04240|432|915 
+AT2G44730       pdi     AT1G05710|432|915 
+AT2G44730       pdi     AT1G09250|432|915 
+AT2G44730       pdi     AT1G09540|432|915 
+AT2G44730       pdi     AT1G14920|432|915 
+AT2G44730       pdi     AT1G22810|432|915 
+AT2G44730       pdi     AT1G29860|432|915 
+AT2G44730       pdi     AT1G34670|432|915 
+AT2G44730       pdi     AT1G42990|432|915 
+AT2G44730       pdi     AT1G43700|432|915 
+AT2G44730       pdi     AT1G50640|432|915 
+AT2G44730       pdi     AT1G51600|432|915 
+AT2G44730       pdi     AT1G58220|432|915 
+AT2G44730       pdi     AT1G69600|432|915 
+AT2G44730       pdi     AT1G71130|432|915 
+AT2G44730       pdi     AT1G72360|432|915 
+AT2G44730       pdi     AT1G77450|432|915 
+AT2G44730       pdi     AT1G80590|432|915 
+AT2G44730       pdi     AT2G16910|432|915 
+AT2G44730       pdi     AT2G22850|432|915 
+AT2G44730       pdi     AT2G23290|432|915 
+AT2G44730       pdi     AT2G28710|432|915 
+AT2G44730       pdi     AT2G40260|432|915 
+AT2G44730       pdi     AT2G40740|432|915 
+AT2G44730       pdi     AT2G44840|432|915 
+AT2G44730       pdi     AT2G46680|432|915 
+AT2G44730       pdi     AT2G47460|432|915 
+AT2G44730       pdi     AT3G02940|432|915 
+AT2G44730       pdi     AT3G11580|432|915 
+AT2G44730       pdi     AT3G15500|432|915 
+AT2G44730       pdi     AT3G18990|432|915 
+AT2G44730       pdi     AT3G23690|432|915 
+AT2G44730       pdi     AT3G46600|432|915 
+AT2G44730       pdi     AT3G54220|432|915 
+AT2G44730       pdi     AT3G61850|432|915 
+AT2G44730       pdi     AT3G62610|432|915 
+AT2G44730       pdi     AT4G25490|432|915 
+AT2G44730       pdi     AT4G32040|432|915
+AT2G44730       pdi     AT4G37650|432|915 
+AT2G44730       pdi     AT4G38340|432|915 
+AT2G44730       pdi     AT4G39070|432|915
+AT2G44730       pdi     AT5G03150|432|915 
+AT2G44730       pdi     AT5G07680|432|915
+AT2G44730       pdi     AT5G15150|432|915 
+AT2G44730       pdi     AT5G16770|432|915 
+AT2G44730       pdi     AT5G24590|432|915 
+AT2G44730       pdi     AT5G25490|432|915 
+AT2G44730       pdi     AT5G26660|432|915
+AT2G44730       pdi     AT5G38140|432|915 
+AT2G44730       pdi     AT5G41920|432|915 
+AT2G44730       pdi     AT5G49450|432|915 
+AT2G44730       pdi     AT5G51990|432|915 
+AT2G44730       pdi     AT5G52660|432|915 
+AT2G44730       pdi     AT5G59450|432|915 
+AT2G44730       pdi     AT5G60890|432|915
+AT2G44840       pdi     AT5G52660|432|915 
+AT2G45160       pdi     AT2G46680|432|915 
+AT2G45160       pdi     AT5G25390|432|915 
+AT2G46270       pdi     AT1G04240|432|915
+AT2G46270       pdi     AT1G80840|432|915 
+AT2G46270       pdi     AT2G47460|432|915 
+AT2G46270       pdi     AT3G15500|432|915 
+AT2G46270       pdi     AT5G51990|432|915
+AT2G46680       pdi     AT2G28710|432|915 
+AT2G47260       pdi     AT1G14920|432|915
+AT2G47260       pdi     AT1G15580|432|915 
+AT2G47260       pdi     AT2G25000|432|915 
+AT2G47260       pdi     AT5G52660|432|915 
+AT2G47890       pdi     AT3G54220|432|915
+AT2G47890       pdi     AT4G38340|432|915 
+AT2G47890       pdi     AT5G07680|432|915 
+AT2G48100       pdi     AT4G25490|432|915 
+AT3G04070       pdi     AT1G42990|432|915 
+AT3G06490       pdi     AT4G28110|432|915 
+AT3G10500       pdi     AT3G15500|432|915 
+AT3G10500       pdi     AT4G28110|432|915 
+AT3G10500       pdi     AT5G06839|432|915 
+AT3G11280       pdi     AT1G14580|432|915 
+AT3G11280       pdi     AT5G51990|432|915
+AT3G11580       pdi     AT1G04240|432|915
+AT3G11580       pdi     AT2G44840|432|915 
+AT3G11580       pdi     AT2G46680|432|915 
+AT3G11580       pdi     AT4G37940|432|915 
+AT3G11580       pdi     AT4G38340|432|915
+AT3G11580       pdi     AT5G07680|432|915 
+AT3G11580       pdi     AT5G51990|432|915 
+AT3G14180       pdi     AT1G69600|432|915
+AT3G14180       pdi     AT3G15500|432|915
+AT3G15210       pdi     AT1G34670|432|915
+AT3G15210       pdi     AT1G42990|432|915
+AT3G15210       pdi     AT1G58220|432|915
+AT3G15210       pdi     AT1G69600|432|915
+AT3G15210       pdi     AT3G15500|432|915
+AT3G15210       pdi     AT4G32040|432|915
+AT3G15210       pdi     AT4G37650|432|915
+AT3G15210       pdi     AT4G38340|432|915
+AT3G15210       pdi     AT4G39070|432|915
+AT3G15210       pdi     AT5G03150|432|915
+AT3G15210       pdi     AT5G59450|432|915
+AT3G16350       pdi     AT5G51990|432|915
+AT3G16870       pdi     AT1G72360|432|915
+AT3G16870       pdi     AT2G44840|432|915
+AT3G18990       pdi     AT1G42990|432|915
+AT3G19290       pdi     AT1G01380|432|915
+AT3G19290       pdi     AT1G04240|432|915
+AT3G19290       pdi     AT1G09250|432|915
+AT3G19290       pdi     AT1G14920|432|915
+AT3G19290       pdi     AT1G42990|432|915
+AT3G19290       pdi     AT1G50640|432|915
+AT3G19290       pdi     AT1G51600|432|915
+AT3G19290       pdi     AT1G69490|432|915
+AT3G19290       pdi     AT1G69600|432|915
+AT3G19290       pdi     AT2G16910|432|915
+AT3G19290       pdi     AT2G40260|432|915
+AT3G19290       pdi     AT2G44840|432|915
+AT3G19290       pdi     AT2G47460|432|915
+AT3G19290       pdi     AT3G11580|432|915
+AT3G19290       pdi     AT3G15500|432|915
+AT3G19290       pdi     AT4G32040|432|915
+AT3G19290       pdi     AT4G37650|432|915
+AT3G19290       pdi     AT4G37940|432|915
+AT3G19290       pdi     AT4G38340|432|915
+AT3G19290       pdi     AT4G39070|432|915
+AT3G19290       pdi     AT5G07680|432|915
+AT3G19290       pdi     AT5G24590|432|915
+AT3G19290       pdi     AT5G25490|432|915
+AT3G19290       pdi     AT5G26660|432|915
+AT3G19290       pdi     AT5G38140|432|915
+AT3G19290       pdi     AT5G51990|432|915
+AT3G19290       pdi     AT5G52660|432|915
+AT3G19290       pdi     AT5G59450|432|915
+AT3G19290       pdi     AT5G59820|432|915
+AT3G19860       pdi     AT3G54220|432|915
+AT3G19860       pdi     AT5G07680|432|915
+AT3G20770       pdi     AT1G50640|432|915
+AT3G21175       pdi     AT3G11440|432|915
+AT3G21175       pdi     AT4G37650|432|915
+AT3G23050       pdi     AT1G77450|432|915
+AT3G23050       pdi     AT1G80590|432|915
+AT3G24050       pdi     AT1G14920|432|915
+AT3G24050       pdi     AT1G77450|432|915
+AT3G24050       pdi     AT2G33480|432|915
+AT3G24050       pdi     AT4G37940|432|915
+AT3G24050       pdi     AT5G07680|432|915
+AT3G24050       pdi     AT5G52660|432|915
+AT3G24120       pdi     AT1G71130|432|915
+AT3G24520       pdi     AT4G37650|432|915
+AT3G25730       pdi     AT1G15580|432|915
+AT3G25730       pdi     AT1G71130|432|915
+AT3G25730       pdi     AT1G80590|432|915
+AT3G25730       pdi     AT2G16910|432|915
+AT3G25730       pdi     AT2G47460|432|915
+AT3G25730       pdi     AT3G11580|432|915
+AT3G25730       pdi     AT3G46600|432|915
+AT3G25730       pdi     AT4G37650|432|915
+AT3G25730       pdi     AT5G51990|432|915
+AT3G25730       pdi     AT5G59450|432|915
+AT3G25730       pdi     AT5G59820|432|915
+AT3G25730       pdi     AT5G60890|432|915
+AT3G26744       pdi     AT1G50640|432|915
+AT3G28920       pdi     AT1G05710|432|915
+AT3G28920       pdi     AT1G09250|432|915
+AT3G28920       pdi     AT1G14920|432|915
+AT3G28920       pdi     AT1G42990|432|915
+AT3G28920       pdi     AT1G43700|432|915
+AT3G28920       pdi     AT1G50640|432|915
+AT3G28920       pdi     AT1G69600|432|915
+AT3G28920       pdi     AT1G80840|432|915
+AT3G28920       pdi     AT2G22850|432|915
+AT3G28920       pdi     AT2G25000|432|915
+AT3G28920       pdi     AT2G44840|432|915
+AT3G28920       pdi     AT3G54220|432|915
+AT3G28920       pdi     AT4G18770|432|915
+AT3G28920       pdi     AT4G28110|432|915
+AT3G28920       pdi     AT4G32040|432|915
+AT3G28920       pdi     AT4G38340|432|915
+AT3G28920       pdi     AT4G39070|432|915
+AT3G28920       pdi     AT5G15150|432|915
+AT3G28920       pdi     AT5G17490|432|915
+AT3G42790       pdi     AT1G69490|432|915
+AT3G49530       pdi     AT5G25390|432|915
+AT3G49930       pdi     AT2G47460|432|915
+AT3G50060       pdi     AT2G13960|432|915
+AT3G50060       pdi     AT2G44840|432|915
+AT3G50060       pdi     AT4G32040|432|915
+AT3G50060       pdi     AT5G24590|432|915
+AT3G50410       pdi     AT4G05100|432|915
+AT3G53340       pdi     AT1G77450|432|915
+AT3G53340       pdi     AT1G80590|432|915
+AT3G53340       pdi     AT2G16910|432|915
+AT3G53340       pdi     AT4G32040|432|915
+AT3G54810       pdi     AT1G14920|432|915
+AT3G54810       pdi     AT4G37940|432|915
+AT3G54810       pdi     AT5G07680|432|915
+AT3G54810       pdi     AT5G52660|432|915
+AT3G56850       pdi     AT3G54220|432|915
+AT3G57480       pdi     AT2G28710|432|915
+AT3G57480       pdi     AT4G28110|432|915
+AT3G60490       pdi     AT1G15580|432|915
+AT3G60490       pdi     AT1G34670|432|915
+AT3G60490       pdi     AT4G32040|432|915
+AT3G60530       pdi     AT1G69600|432|915
+AT3G60530       pdi     AT4G37940|432|915
+AT3G60530       pdi     AT5G07680|432|915
+AT3G60530       pdi     AT5G18680|432|915
+AT3G60530       pdi     AT5G52660|432|915
+AT3G61630       pdi     AT3G15500|432|915
+AT3G61850       pdi     AT5G26660|432|915
+AT3G61850       pdi     AT5G51990|432|915
+AT3G61890       pdi     AT1G09540|432|915
+AT3G62100       pdi     AT1G29860|432|915
+AT3G62100       pdi     AT5G18680|432|915
+AT4G00730       pdi     AT2G22430|432|915
+AT4G00730       pdi     AT5G59450|432|915
+AT4G00940       pdi     AT3G23690|432|915
+AT4G00940       pdi     AT4G28110|432|915
+AT4G00940       pdi     AT5G26660|432|915
+AT4G00940       pdi     AT5G51990|432|915
+AT4G01120       pdi     AT1G04240|432|915
+AT4G01120       pdi     AT1G69600|432|915
+AT4G01120       pdi     AT2G44840|432|915
+AT4G01120       pdi     AT2G47460|432|915
+AT4G01120       pdi     AT4G37940|432|915
+AT4G01120       pdi     AT4G39070|432|915
+AT4G01120       pdi     AT5G07680|432|915
+AT4G01120       pdi     AT5G59820|432|915
+AT4G05100       pdi     AT5G59450|432|915
+AT4G17490       pdi     AT1G04240|432|915
+AT4G17490       pdi     AT1G58220|432|915
+AT4G17490       pdi     AT3G15500|432|915
+AT4G17490       pdi     AT4G37650|432|915
+AT4G17490       pdi     AT4G37940|432|915
+AT4G17500       pdi     AT4G37940|432|915
+AT4G18880       pdi     AT1G09250|432|915
+AT4G24470       pdi     AT3G11440|432|915
+AT4G25210       pdi     AT1G04240|432|915
+AT4G25210       pdi     AT3G23690|432|915
+AT4G25470       pdi     AT1G15580|432|915
+AT4G25470       pdi     AT4G32040|432|915
+AT4G25470       pdi     AT5G59450|432|915
+AT4G26640       pdi     AT1G42990|432|915
+AT4G28110       pdi     AT5G52660|432|915
+AT4G28140       pdi     AT1G14580|432|915
+AT4G28140       pdi     AT5G59450|432|915
+AT4G29080       pdi     AT1G09540|432|915
+AT4G29080       pdi     AT1G14920|432|915
+AT4G29080       pdi     AT1G34670|432|915
+AT4G29080       pdi     AT1G69600|432|915
+AT4G29080       pdi     AT2G47460|432|915
+AT4G29080       pdi     AT4G28110|432|915
+AT4G29080       pdi     AT4G37940|432|915
+AT4G29080       pdi     AT4G38340|432|915
+AT4G29080       pdi     AT5G07680|432|915
+AT4G30935       pdi     AT1G03840|432|915
+AT4G31550       pdi     AT1G04240|432|915
+AT4G31550       pdi     AT1G22810|432|915
+AT4G31550       pdi     AT1G42990|432|915
+AT4G31550       pdi     AT1G80840|432|915
+AT4G31550       pdi     AT2G28710|432|915
+AT4G34000       pdi     AT1G42990|432|915
+AT4G34680       pdi     AT1G77450|432|915
+AT4G34680       pdi     AT2G44840|432|915
+AT4G34680       pdi     AT5G15150|432|915
+AT4G34680       pdi     AT5G59820|432|915
+AT4G35040       pdi     AT5G38140|432|915
+AT4G36620       pdi     AT1G14920|432|915
+AT4G36730       pdi     AT1G15580|432|915
+AT4G36730       pdi     AT1G80590|432|915
+AT4G36730       pdi     AT2G16910|432|915
+AT4G36730       pdi     AT3G11580|432|915
+AT4G36730       pdi     AT3G46600|432|915
+AT4G36730       pdi     AT4G37650|432|915
+AT4G36730       pdi     AT5G51990|432|915
+AT4G36730       pdi     AT5G59450|432|915
+AT4G36740       pdi     AT5G26660|432|915
+AT4G36900       pdi     AT1G14580|432|915
+AT4G36900       pdi     AT1G34670|432|915
+AT4G36930       pdi     AT3G46600|432|915
+AT4G37790       pdi     AT1G09540|432|915
+AT4G37790       pdi     AT1G51600|432|915
+AT4G37790       pdi     AT1G69490|432|915
+AT4G37790       pdi     AT2G28710|432|915
+AT4G37790       pdi     AT3G23690|432|915
+AT4G37790       pdi     AT5G26660|432|915
+AT4G39070       pdi     AT1G69490|432|915
+AT5G01200       pdi     AT4G28110|432|915
+AT5G01200       pdi     AT5G51990|432|915
+AT5G05410       pdi     AT1G01380|432|915
+AT5G05410       pdi     AT1G04240|432|915
+AT5G05410       pdi     AT1G08320|432|915
+AT5G05410       pdi     AT1G09250|432|915
+AT5G05410       pdi     AT1G09540|432|915
+AT5G05410       pdi     AT1G14920|432|915
+AT5G05410       pdi     AT1G15580|432|915
+AT5G05410       pdi     AT1G34670|432|915
+AT5G05410       pdi     AT1G42990|432|915
+AT5G05410       pdi     AT1G50640|432|915
+AT5G05410       pdi     AT1G58220|432|915
+AT5G05410       pdi     AT1G69600|432|915
+AT5G05410       pdi     AT1G71130|432|915
+AT5G05410       pdi     AT2G13960|432|915
+AT5G05410       pdi     AT2G40740|432|915
+AT5G05410       pdi     AT2G44840|432|915
+AT5G05410       pdi     AT2G47460|432|915
+AT5G05410       pdi     AT2G47520|432|915
+AT5G05410       pdi     AT3G11580|432|915
+AT5G05410       pdi     AT3G15500|432|915
+AT5G05410       pdi     AT3G18990|432|915
+AT5G05410       pdi     AT3G23690|432|915
+AT5G05410       pdi     AT3G54220|432|915
+AT5G05410       pdi     AT3G61850|432|915
+AT5G05410       pdi     AT4G32040|432|915
+AT5G05410       pdi     AT4G37650|432|915
+AT5G05410       pdi     AT4G37940|432|915
+AT5G05410       pdi     AT4G38340|432|915
+AT5G05410       pdi     AT4G39070|432|915
+AT5G05410       pdi     AT5G03150|432|915
+AT5G05410       pdi     AT5G07680|432|915
+AT5G05410       pdi     AT5G25490|432|915
+AT5G05410       pdi     AT5G38140|432|915
+AT5G05410       pdi     AT5G51990|432|915
+AT5G05410       pdi     AT5G52660|432|915
+AT5G05410       pdi     AT5G59450|432|915
+AT5G05790       pdi     AT4G28110|432|915
+AT5G05790       pdi     AT5G06839|432|915
+AT5G06960       pdi     AT1G04240|432|915
+AT5G06960       pdi     AT1G42990|432|915
+AT5G06960       pdi     AT1G58220|432|915
+AT5G06960       pdi     AT1G69490|432|915
+AT5G06960       pdi     AT1G71130|432|915
+AT5G06960       pdi     AT1G80840|432|915
+AT5G06960       pdi     AT2G44840|432|915
+AT5G06960       pdi     AT2G47460|432|915
+AT5G06960       pdi     AT3G23690|432|915
+AT5G06960       pdi     AT4G37650|432|915
+AT5G06960       pdi     AT4G37940|432|915
+AT5G06960       pdi     AT4G38340|432|915
+AT5G06960       pdi     AT5G07680|432|915
+AT5G06960       pdi     AT5G24590|432|915
+AT5G06960       pdi     AT5G38140|432|915
+AT5G06960       pdi     AT5G51990|432|915
+AT5G06960       pdi     AT5G52660|432|915
+AT5G06960       pdi     AT5G59450|432|915
+AT5G06960       pdi     AT5G59820|432|915
+AT5G07680       pdi     AT1G05710|432|915
+AT5G07680       pdi     AT2G31730|432|915
+AT5G08130       pdi     AT2G47520|432|915
+AT5G09330       pdi     AT5G59820|432|915
+AT5G10280       pdi     AT5G59820|432|915
+AT5G10510       pdi     AT4G32040|432|915
+AT5G13330       pdi     AT1G04240|432|915
+AT5G13330       pdi     AT1G34670|432|915
+AT5G13330       pdi     AT1G50640|432|915
+AT5G13330       pdi     AT1G58220|432|915
+AT5G13330       pdi     AT2G28710|432|915
+AT5G13330       pdi     AT4G32040|432|915
+AT5G13330       pdi     AT5G59450|432|915
+AT5G13910       pdi     AT1G42990|432|915
+AT5G13910       pdi     AT5G52660|432|915
+AT5G14000       pdi     AT1G03840|432|915
+AT5G14340       pdi     AT1G50640|432|915
+AT5G18560       pdi     AT1G69490|432|915
+AT5G18830       pdi     AT1G01380|432|915
+AT5G18830       pdi     AT1G09250|432|915
+AT5G18830       pdi     AT5G25490|432|915
+AT5G18830       pdi     AT5G52660|432|915
+AT5G22570       pdi     AT5G59820|432|915
+AT5G25810       pdi     AT1G15580|432|915
+AT5G25810       pdi     AT1G34670|432|915
+AT5G25830       pdi     AT1G14920|432|915
+AT5G25830       pdi     AT1G15580|432|915
+AT5G25830       pdi     AT1G80590|432|915
+AT5G25830       pdi     AT2G22430|432|915
+AT5G25830       pdi     AT4G37940|432|915
+AT5G25830       pdi     AT5G07680|432|915
+AT5G25830       pdi     AT5G52660|432|915
+AT5G25890       pdi     AT3G18990|432|915
+AT5G26930       pdi     AT2G44840|432|915
+AT5G28040       pdi     AT4G38340|432|915
+AT5G28040       pdi     AT5G07680|432|915
+AT5G28040       pdi     AT5G52660|432|915
+AT5G37020       pdi     AT1G14580|432|915
+AT5G37020       pdi     AT3G54220|432|915
+AT5G37020       pdi     AT4G39410|432|915
+AT5G37020       pdi     AT5G65790|432|915
+AT5G43170       pdi     AT5G07680|432|915
+AT5G43700       pdi     AT1G77450|432|915
+AT5G43700       pdi     AT1G80590|432|915
+AT5G43700       pdi     AT3G02940|432|915
+AT5G43700       pdi     AT4G25490|432|915
+AT5G43700       pdi     AT4G37940|432|915
+AT5G44080       pdi     AT2G47460|432|915
+AT5G44160       pdi     AT1G69490|432|915
+AT5G44160       pdi     AT4G28110|432|915
+AT5G44160       pdi     AT5G51990|432|915
+AT5G44210       pdi     AT1G01380|432|915
+AT5G44210       pdi     AT1G04240|432|915
+AT5G44210       pdi     AT1G34670|432|915
+AT5G44210       pdi     AT1G42990|432|915
+AT5G44210       pdi     AT1G50640|432|915
+AT5G44210       pdi     AT1G58220|432|915
+AT5G44210       pdi     AT1G69490|432|915
+AT5G44210       pdi     AT1G69600|432|915
+AT5G44210       pdi     AT2G16910|432|915
+AT5G44210       pdi     AT2G40260|432|915
+AT5G44210       pdi     AT2G44840|432|915
+AT5G44210       pdi     AT2G47520|432|915
+AT5G44210       pdi     AT3G11580|432|915
+AT5G44210       pdi     AT3G15500|432|915
+AT5G44210       pdi     AT4G32040|432|915
+AT5G44210       pdi     AT4G37650|432|915
+AT5G44210       pdi     AT4G38340|432|915
+AT5G44210       pdi     AT4G39070|432|915
+AT5G44210       pdi     AT5G03150|432|915
+AT5G44210       pdi     AT5G07680|432|915
+AT5G44210       pdi     AT5G51990|432|915
+AT5G44210       pdi     AT5G59450|432|915
+AT5G47220       pdi     AT1G04240|432|915
+AT5G47220       pdi     AT1G14580|432|915
+AT5G47220       pdi     AT1G42990|432|915
+AT5G47220       pdi     AT1G58220|432|915
+AT5G47220       pdi     AT1G69600|432|915
+AT5G47220       pdi     AT2G44840|432|915
+AT5G47220       pdi     AT4G32040|432|915
+AT5G47220       pdi     AT4G37650|432|915
+AT5G47230       pdi     AT1G08320|432|915
+AT5G47230       pdi     AT1G58220|432|915
+AT5G47230       pdi     AT2G44840|432|915
+AT5G47230       pdi     AT3G20840|432|915
+AT5G47230       pdi     AT3G50260|432|915
+AT5G47230       pdi     AT4G37650|432|915
+AT5G47230       pdi     AT5G07680|432|915
+AT5G51990       pdi     AT1G04240|432|915
+AT5G51990       pdi     AT1G14580|432|915
+AT5G51990       pdi     AT1G15580|432|915
+AT5G52020       pdi     AT1G15580|432|915
+AT5G54230       pdi     AT4G39410|432|915
+AT5G54470       pdi     AT3G20840|432|915
+AT5G54680       pdi     AT2G47460|432|915
+AT5G54680       pdi     AT3G54220|432|915
+AT5G54680       pdi     AT5G38140|432|915
+AT5G58010       pdi     AT2G25650|432|915
+AT5G59450       pdi     AT1G50640|432|915
+AT5G60850       pdi     AT3G23690|432|915
+AT5G60850       pdi     AT4G32040|432|915
+AT5G61590       pdi     AT1G04240|432|915
+AT5G61590       pdi     AT1G42990|432|915
+AT5G61590       pdi     AT1G58220|432|915
+AT5G61590       pdi     AT1G69600|432|915
+AT5G61590       pdi     AT2G44840|432|915
+AT5G61590       pdi     AT2G47520|432|915
+AT5G61590       pdi     AT3G02940|432|915
+AT5G61590       pdi     AT3G11580|432|915
+AT5G61590       pdi     AT3G15500|432|915
+AT5G61590       pdi     AT3G54220|432|915
+AT5G61590       pdi     AT3G62610|432|915
+AT5G61590       pdi     AT4G25490|432|915
+AT5G61590       pdi     AT4G32040|432|915
+AT5G61590       pdi     AT4G37650|432|915
+AT5G61590       pdi     AT4G37940|432|915
+AT5G61590       pdi     AT4G39070|432|915
+AT5G61590       pdi     AT5G38140|432|915
+AT5G61590       pdi     AT5G41920|432|915
+AT5G61590       pdi     AT5G52660|432|915
+AT5G61600       pdi     AT1G04240|432|915
+AT5G61600       pdi     AT3G02940|432|915
+AT5G61600       pdi     AT3G54220|432|915
+AT5G61600       pdi     AT3G62610|432|915
+AT5G61600       pdi     AT5G41920|432|915
+AT5G61890       pdi     AT1G34670|432|915
+AT5G61890       pdi     AT4G28110|432|915
+AT5G61890       pdi     AT4G35900|432|915
+AT5G61890       pdi     AT4G39410|432|915
+AT5G61890       pdi     AT5G06839|432|915
+AT5G62610       pdi     AT1G51600|432|915
+AT5G62610       pdi     AT2G28710|432|915
+AT5G62610       pdi     AT2G47460|432|915
+AT5G62610       pdi     AT3G25790|432|915
+AT5G62610       pdi     AT5G59450|432|915
+AT5G62610       pdi     AT5G60890|432|915
+AT5G63280       pdi     AT5G06839|432|915
+AT5G63790       pdi     AT1G04240|432|915
+AT5G63790       pdi     AT2G22850|432|915
+AT5G63790       pdi     AT5G26660|432|915
+AT5G65310       pdi     AT1G69490|432|915
+AT5G65640       pdi     AT2G40260|432|915
+AT5G65640       pdi     AT3G54220|432|915
+AT5G65640       pdi     AT3G62610|432|915
+AT5G65640       pdi     AT5G49450|432|915
+AT5G65790       pdi     AT2G38470|432|915
+AT5G66320       pdi     AT1G14920|432|915
+AT5G66320       pdi     AT4G37940|432|915
+AT5G66320       pdi     AT5G07680|432|915
+AT5G67190       pdi     AT5G06839|432|915
 
-AT3G54220	pdi-a	AT1G75540	qRT-PCR
-AT3G54220	pdi-a	AT1G61730	qRT-PCR
-AT3G54220	pdi-a	AT3G28920	qRT-PCR
-AT3G54220	pdi-a	AT5G61590	qRT-PCR
-AT3G54220	pdi-r	AT2G21230	qRT-PCR
-AT3G54220	pdi-r	AT1G09530	qRT-PCR
-AT3G54220	pdi	AT5G05410	qRT-PCR
-AT4G37650	pdi-a	AT1G61730	qRT-PCR
-AT4G37650	pdi-a	AT1G71130	qRT-PCR
-AT4G37650	pdi-a	AT1G76880	qRT-PCR
-AT4G37650	pdi-a	AT3G19290	qRT-PCR
-AT4G37650	pdi-a	AT5G05410	qRT-PCR
-AT4G37650	pdi-r	AT1G12610	qRT-PCR
-AT4G37650	pdi-r	AT2G22840	qRT-PCR
-AT4G37650	pdi-r	AT2G31230	qRT-PCR
-AT4G37650	pdi-r	AT2G44730	qRT-PCR
-AT4G37650	pdi-r	AT3G21175	qRT-PCR
-AT4G37650	pdi-r	AT3G24520	qRT-PCR
-AT4G37650	pdi-r	AT4G17490	qRT-PCR
-AT4G37650	pdi-r	AT4G36730	qRT-PCR
-AT4G37650	pdi-r	AT5G61590	qRT-PCR
-AT4G37650	pdi	AT1G30810	qRT-PCR
-AT4G37650	pdi	AT2G40950	qRT-PCR
-AT4G37650	pdi	AT1G69780	qRT-PCR
-AT4G37650	pdi	AT3G25730	qRT-PCR
-AT1G71130	pdi-a	AT1G47870	qRT-PCR
-AT1G71130	pdi-a	AT5G05410	qRT-PCR
-AT1G71130	pdi-a	AT2G44730	qRT-PCR
-AT1G71130	pdi-r	AT1G12610	qRT-PCR
-AT1G71130	pdi-r	AT2G40950	qRT-PCR
-AT1G71130	pdi-r	AT3G25730	qRT-PCR
-AT1G71130	pdi	AT1G71130	qRT-PCR
+AT3G54220	pdi-a	AT1G75540|1195|2286
+AT3G54220	pdi-a	AT1G61730|1195|2286
+AT3G54220	pdi-a	AT3G28920|1195|2286
+AT3G54220	pdi-a	AT5G61590|1195|2286
+AT3G54220	pdi-r	AT2G21230|1195|2286
+AT3G54220	pdi-r	AT1G09530|1195|2286
+AT3G54220	pdi	AT5G05410|1195|2286
+AT4G37650	pdi-a	AT1G61730|1195|2286
+AT4G37650	pdi-a	AT1G71130|1195|2286
+AT4G37650	pdi-a	AT1G76880|1195|2286
+AT4G37650	pdi-a	AT3G19290|1195|2286
+AT4G37650	pdi-a	AT5G05410|1195|2286
+AT4G37650	pdi-r	AT1G12610|1195|2286
+AT4G37650	pdi-r	AT2G22840|1195|2286
+AT4G37650	pdi-r	AT2G31230|1195|2286
+AT4G37650	pdi-r	AT2G44730|1195|2286
+AT4G37650	pdi-r	AT3G21175|1195|2286
+AT4G37650	pdi-r	AT3G24520|1195|2286
+AT4G37650	pdi-r	AT4G17490|1195|2286
+AT4G37650	pdi-r	AT4G36730|1195|2286
+AT4G37650	pdi-r	AT5G61590|1195|2286
+AT4G37650	pdi	AT1G30810|1195|2286
+AT4G37650	pdi	AT2G40950|1195|2286
+AT4G37650	pdi	AT1G69780|1195|2286
+AT4G37650	pdi	AT3G25730|1195|2286
+AT1G71130	pdi-a	AT1G47870|1195|2286
+AT1G71130	pdi-a	AT5G05410|1195|2286
+AT1G71130	pdi-a	AT2G44730|1195|2286
+AT1G71130	pdi-r	AT1G12610|1195|2286
+AT1G71130	pdi-r	AT2G40950|1195|2286
+AT1G71130	pdi-r	AT3G25730|1195|2286
+AT1G71130	pdi	AT1G71130|1195|2286
