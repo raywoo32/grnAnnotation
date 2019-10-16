@@ -20,5 +20,5 @@
 ```
 
 ## NOTES:
-[mi interaction types and methods](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0000#)
-[about the sif format](http://manual.cytoscape.org/en/stable/Supported_Network_File_Formats.html)
+- [mi interaction types and methods](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0000#)
+- [about the sif format](http://manual.cytoscape.org/en/stable/Supported_Network_File_Formats.html)
