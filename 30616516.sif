@@ -1,7 +1,7 @@
 #grn_title:Zhang et al. (BMC PLANT BIOLOGY, 2019) Flower Development
 #source_name:30616516
 #comments:Existing time-course gene expression data for flower development was used to find dynamical network biomarker to create a gene regulatory network.
-#tags:DNB:METHOD|Flower:CONDITION|NAP12:GENE|RIE1:GENE|CBC:MISC|CBP20:GENE|LEA:GENE|APETALA2:MISC
+#tags:DNB:EXPERIMENT|Flower:CONDITION|NAP12:GENE|RIE1:GENE|CBC:MISC|CBP20:GENE|LEA:GENE|APETALA2:MISC
 ---
 AT4G18070 mmi AT1G76360|225|2286
 AT1G76360 mmi AT4G18070|225|2286

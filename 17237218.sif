@@ -1,7 +1,7 @@
 #grn_title:Keurentjes et al. (PROC NAT ACAD SCI, 2007) Flowering Time 
 #source_name:17237218 
 #comments:Flowering Time analysis with genome-wide expression variation analysis (combining eQTL mapping and regulator candidate gene selection) in an RIL population of Arabidopsis thaliana. Data From: manual annotation of Figure 2. 
-#tags:ERECTA:GENE|GIGANTEA:GENE|eQTL mapping:METHOD|RIL:METHOD|Linkage Mapping:METHOD|Flowering:MISC
+#tags:ERECTA:GENE|GIGANTEA:GENE|eQTL mapping:EXPERIMENT|RIL:EXPERIMENT|Linkage Mapping:EXPERIMENT|Flowering:MISC
 ---
 AT2G30530 pdi-a AT4G33430|225|2286
 AT1G15260 pdi-a AT3G47500|225|2286
