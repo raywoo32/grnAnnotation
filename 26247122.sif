@@ -1,7 +1,7 @@
 #grn_title:Vidal et al.(CURR OPIN PLANT BIOL., 2015) Aggregated Nitrate Response Network
 #source_name:26247122
-#comments:Transcription factors involved in nitrate signaling and the control of prototypical nitrate-responsive genes
-#tags:nitrate|TGA1|TGA4|NAC4|NLP7|bZIP1|NLP|root|ChIP|expression change|TF
+#comments:Transcription factors involved in nitrate signaling and the control of prototypical nitrate-responsive genes. Data From: Figure 1.
+#tags:|TGA1:GENE|TGA4:GENE|NAC4:GENE|NLP7:GENE|bZIP1:GENE|NLP:GENE|root:CONDITION|ChIP:EXPERIMENT|expression change:EXPERIMENT|Nitrate:CONDITION
 ---
 AT5G67420 pdi AT1G12110|1195|2286
 AT5G67420 pdi AT1G08090|1195|2286
