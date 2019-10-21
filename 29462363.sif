@@ -1,7 +1,7 @@
-#grn_title:Ikeuchi et al. (PLANT CELL PHYSIOL., 2018) Plant Regeneration
+#grn_title:Ikeuchi et al. (PLANT CELL PHYSIOL., 2018) Wound Response
 #source_name:29462363
-#comments:enhanced yeast one-hybrid
-#tags:PLT3|ESR1|HSFB1|AP2/ERFs|LOB/AS2
+#comments:Used enhanced yeast one-hybrid (eY1H) and induced wounds to identify regulatory relationships between TFs and promoters. PLETHORA 3 (PLT3), ENHANCER OF SHOOT REGENERATION 1 (ESR1) and HEAT SHOCK FACTOR B 1 (HSFB1) act as critical nodes, cytokinin and auxin are important horomones. Data From: Supplement
+#tags:PLT3:GENE|ESR1:GENE|HSFB1:GENE|wound:CONDITION|auxin:MISC|cytokinin:MISC|tissue:CONDITION
 ---
 AT2G36270 pdi AT1G19220|432|915
 AT3G16857 pdi AT1G19220|432|915
