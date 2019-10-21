@@ -1,7 +1,8 @@
 #grn_title:Park et al.(THE PLANT JOURNAL, 2015) CBF Regulon Low Temperature Network
 #source_name:25736223#2
 #comments:Topic:Investigating cold regulation of the CBF regulon. Methods include transgenic lines that constitutively overexpressed a truncated version of CBF2, quantitative real‐time PCR analysis, affymetrix GeneChip hybridization. Data From: Table S5. COR genes regulated by first-wave transcription factors
-#tags:ZAT12:GENE|CBF:GENE|CBF1:GENE|CBF2:GENE|CBF3:GENE|DREB1b:GENE|DREB2a:GENE|DREB1c:GENE|HSFC1:GENE|RAV1:GENE|CZF1:GENE|ZAT10:GENE|ZF:GENE|qRT-PCR:METHOD---
+#tags:ZAT12:GENE|CBF:GENE|CBF1:GENE|CBF2:GENE|CBF3:GENE|DREB1b:GENE|DREB2a:GENE|DREB1c:GENE|HSFC1:GENE|RAV1:GENE|CZF1:GENE|ZAT10:GENE|ZF:GENE|qRT-PCR:METHOD|Cold Stress:CONDITION
+---
 AT4G25470 ppi-a AT2G42540|1195|2286
 AT4G25470 ppi-a AT1G09350|1195|2286
 AT4G25470 ppi-a AT2G42530|1195|2286
