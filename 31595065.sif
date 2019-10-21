@@ -1,7 +1,7 @@
 #grn_title:Zhang et al. (NATURE PLANTS, 2019) vascular cambium development in roots
 #source_name:31595065
-#comments:
-#tags:Vascular cambium|TF|WOX4|KNAT1|SVP|PTL|xylem
+#comments:Cambium cell-specific transcript profiling followed by a combination of transcription factor network and genetic analyses was used to identify 62 new transcription factor genotypes in the Vascular cambium (meristem). Key TFs in cambial cell proliferation and xylem differentiation are, WOX4, SHORT VEGETATIVE PHASE (SVP) and PETAL LOSS (PTL). Data manually annotated from: Figure 2c.
+#tags:Vascular cambium:CONDITION|WOX4:GENE|KNAT1:GENE|SVP:GENE|PTL:GENE|xylem:CONDITION|meristem:CONDITION
 ---
 AT1G46480 ppi-a AT1G09950|0054|0407
 AT5G03680 ppi-a AT1G46480|0054|0407 
