@@ -1,7 +1,7 @@
 #grn_title:Sparks et al.(DEVELOPMENTAL CELL, 2016) SHORTROOT-SCARECROW Transcriptional Cascade Network
 #source_name:27923776
-#comments:Figure 2. eY1H Assays Define a Network of Ground Tissue Transcription Factor Interactions
-#tags:eY1H|SHORTROOT|TF|root ground tissue|SHORTROOT-SCARECROW|root|qRT-PCR
+#comments:eY1H Assays Define a Network of Ground Tissue Transcription Factor Interactions. Data From: Figure 2. and supplement
+#tags:eY1H:EXPERIMENT|SHORTROOT:GENE|root:CONDITION|SCARECROW:GENE|qRT-PCR:EXPERIMENT|ZML1:GENE|DDF1:GENE
 ---
 AT1G01010 pdi AT1G42990|432|915 
 AT1G02340 pdi AT1G34670|432|915 
