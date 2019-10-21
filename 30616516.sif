@@ -1,7 +1,7 @@
 #grn_title:Zhang et al. (BMC PLANT BIOLOGY, 2019) Flower Development
 #source_name:30616516
 #comments:Dynamical network biomarker (DNB); Flower development; Gene regulatory network (GRN); Phase transition; Time-course gene expression data -Rachel
-#tags:Expression profiling by array|Dynamical network biomarker|Flower development|Phase transition|Time-course gene expression data
+#tags:DNB|FlowerDev
 ---
 AT4G18070 mmi AT1G76360|225|2286
 AT1G76360 mmi AT4G18070|225|2286
